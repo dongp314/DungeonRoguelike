@@ -366,3 +366,4 @@ Received Import Request.
   path: Assets/CourseAssets/Tilemap/Palettes/Blood
   artifactKey: Guid(b3b92f93d926db449821645e0f4ebb54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/CourseAssets/Tilemap/Palettes/Blood using Guid(b3b92f93d926db449821645e0f4ebb54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '491dd88d16e27a9890c37fd9967e3c31') in 0.002281 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
