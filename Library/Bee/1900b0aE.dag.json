@@ -277,7 +277,13 @@
         267,
         268,
         269,
-        270
+        270,
+        271,
+        272,
+        273,
+        274,
+        275,
+        276
       ],
       "ToUseDependencies": [],
       "OverwriteOutputs": true,
@@ -796,9 +802,6 @@
         213,
         214,
         216,
-        217,
-        218,
-        219,
         220,
         221,
         222,
@@ -849,7 +852,13 @@
         267,
         268,
         269,
-        270
+        270,
+        271,
+        272,
+        273,
+        274,
+        275,
+        276
       ],
       "ToUseDependencies": [],
       "OverwriteOutputs": true,
@@ -16255,8 +16264,683 @@
       "DebugActionIndex": 205
     },
     {
+      "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp",
+      "WriteTextFilePayload": "-target:library\r\n-out:\"Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll\"\r\n-refout:\"Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.ref.dll\"\r\n-define:UNITY_2021_1_7\r\n-define:UNITY_2021_1\r\n-define:UNITY_2021\r\n-define:UNITY_5_3_OR_NEWER\r\n-define:UNITY_5_4_OR_NEWER\r\n-define:UNITY_5_5_OR_NEWER\r\n-define:UNITY_5_6_OR_NEWER\r\n-define:UNITY_2017_1_OR_NEWER\r\n-define:UNITY_2017_2_OR_NEWER\r\n-define:UNITY_2017_3_OR_NEWER\r\n-define:UNITY_2017_4_OR_NEWER\r\n-define:UNITY_2018_1_OR_NEWER\r\n-define:UNITY_2018_2_OR_NEWER\r\n-define:UNITY_2018_3_OR_NEWER\r\n-define:UNITY_2018_4_OR_NEWER\r\n-define:UNITY_2019_1_OR_NEWER\r\n-define:UNITY_2019_2_OR_NEWER\r\n-define:UNITY_2019_3_OR_NEWER\r\n-define:UNITY_2019_4_OR_NEWER\r\n-define:UNITY_2020_1_OR_NEWER\r\n-define:UNITY_2020_2_OR_NEWER\r\n-define:UNITY_2020_3_OR_NEWER\r\n-define:UNITY_2021_1_OR_NEWER\r\n-define:PLATFORM_ARCH_64\r\n-define:UNITY_64\r\n-define:UNITY_INCLUDE_TESTS\r\n-define:USE_SEARCH_ENGINE_API\r\n-define:USE_QUICK_SEARCH_MODULE\r\n-define:SCENE_TEMPLATE_MODULE\r\n-define:ENABLE_AR\r\n-define:ENABLE_AUDIO\r\n-define:ENABLE_CACHING\r\n-define:ENABLE_CLOTH\r\n-define:ENABLE_EVENT_QUEUE\r\n-define:ENABLE_MICROPHONE\r\n-define:ENABLE_MULTIPLE_DISPLAYS\r\n-define:ENABLE_PHYSICS\r\n-define:ENABLE_TEXTURE_STREAMING\r\n-define:ENABLE_VIRTUALTEXTURING\r\n-define:ENABLE_UNET\r\n-define:ENABLE_LZMA\r\n-define:ENABLE_UNITYEVENTS\r\n-define:ENABLE_VR\r\n-define:ENABLE_WEBCAM\r\n-define:ENABLE_UNITYWEBREQUEST\r\n-define:ENABLE_WWW\r\n-define:ENABLE_CLOUD_SERVICES\r\n-define:ENABLE_CLOUD_SERVICES_COLLAB\r\n-define:ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS\r\n-define:ENABLE_CLOUD_SERVICES_ADS\r\n-define:ENABLE_CLOUD_SERVICES_USE_WEBREQUEST\r\n-define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING\r\n-define:ENABLE_CLOUD_SERVICES_PURCHASING\r\n-define:ENABLE_CLOUD_SERVICES_ANALYTICS\r\n-define:ENABLE_CLOUD_SERVICES_UNET\r\n-define:ENABLE_CLOUD_SERVICES_BUILD\r\n-define:ENABLE_CLOUD_LICENSE\r\n-define:ENABLE_EDITOR_HUB_LICENSE\r\n-define:ENABLE_WEBSOCKET_CLIENT\r\n-define:ENABLE_DIRECTOR_AUDIO\r\n-define:ENABLE_DIRECTOR_TEXTURE\r\n-define:ENABLE_MANAGED_JOBS\r\n-define:ENABLE_MANAGED_TRANSFORM_JOBS\r\n-define:ENABLE_MANAGED_ANIMATION_JOBS\r\n-define:ENABLE_MANAGED_AUDIO_JOBS\r\n-define:INCLUDE_DYNAMIC_GI\r\n-define:ENABLE_MONO_BDWGC\r\n-define:ENABLE_SCRIPTING_GC_WBARRIERS\r\n-define:PLATFORM_SUPPORTS_MONO\r\n-define:RENDER_SOFTWARE_CURSOR\r\n-define:ENABLE_VIDEO\r\n-define:PLATFORM_STANDALONE\r\n-define:PLATFORM_STANDALONE_WIN\r\n-define:UNITY_STANDALONE_WIN\r\n-define:UNITY_STANDALONE\r\n-define:ENABLE_RUNTIME_GI\r\n-define:ENABLE_MOVIES\r\n-define:ENABLE_NETWORK\r\n-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION\r\n-define:ENABLE_OUT_OF_PROCESS_CRASH_HANDLER\r\n-define:ENABLE_CLUSTER_SYNC\r\n-define:ENABLE_CLUSTERINPUT\r\n-define:PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP\r\n-define:GFXDEVICE_WAITFOREVENT_MESSAGEPUMP\r\n-define:ENABLE_WEBSOCKET_HOST\r\n-define:ENABLE_MONO\r\n-define:NET_STANDARD_2_0\r\n-define:ENABLE_PROFILER\r\n-define:DEBUG\r\n-define:TRACE\r\n-define:UNITY_ASSERTIONS\r\n-define:UNITY_EDITOR\r\n-define:UNITY_EDITOR_64\r\n-define:UNITY_EDITOR_WIN\r\n-define:ENABLE_UNITY_COLLECTIONS_CHECKS\r\n-define:ENABLE_BURST_AOT\r\n-define:UNITY_TEAM_LICENSE\r\n-define:ENABLE_CUSTOM_RENDER_TEXTURE\r\n-define:ENABLE_DIRECTOR\r\n-define:ENABLE_LOCALIZATION\r\n-define:ENABLE_SPRITES\r\n-define:ENABLE_TERRAIN\r\n-define:ENABLE_TILEMAP\r\n-define:ENABLE_TIMELINE\r\n-define:ENABLE_LEGACY_INPUT_MANAGER\r\n-define:CSHARP_7_OR_LATER\r\n-define:CSHARP_7_3_OR_NEWER\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.GraphViewModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.PackageManagerUIModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.QuickSearchModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.SceneTemplateModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIBuilderModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIElementsModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIElementsSamplesModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIServiceModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.AccessibilityModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.AndroidJNIModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.AnimationModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ARModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.AssetBundleModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.AudioModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClothModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterInputModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterRendererModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.CrashReportingModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.DirectorModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.DSPGraphModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.GameCenterModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.GIModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.GridModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.HotReloadModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ImageConversionModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.IMGUIModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.InputLegacyModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.InputModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.LocalizationModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.PerformanceReportingModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.Physics2DModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.PhysicsModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ProfilerModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ScreenCaptureModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.SharedInternalsModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteMaskModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteShapeModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.StreamingModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.SubstanceModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.SubsystemsModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainPhysicsModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextCoreModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextRenderingModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.TilemapModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.TLSModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIElementsModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIElementsNativeModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UmbraModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UNETModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityAnalyticsModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityConnectModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityCurlModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityTestProtocolModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAssetBundleModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAudioModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestTextureModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestWWWModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.VehiclesModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.VFXModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.VideoModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.VirtualTexturingModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.VRModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.WindModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/mscorlib.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.ComponentModel.Composition.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Core.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Data.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Drawing.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.IO.Compression.FileSystem.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Net.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Numerics.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Runtime.Serialization.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.ServiceModel.Web.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Transactions.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Web.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Windows.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Linq.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/Microsoft.Win32.Primitives.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.AppContext.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Collections.Concurrent.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Collections.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Collections.NonGeneric.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Collections.Specialized.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.ComponentModel.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.ComponentModel.EventBasedAsync.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.ComponentModel.Primitives.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.ComponentModel.TypeConverter.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Console.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Data.Common.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.Contracts.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.Debug.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.FileVersionInfo.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.Process.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.StackTrace.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.TextWriterTraceListener.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.Tools.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.TraceSource.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.Tracing.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Drawing.Primitives.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Dynamic.Runtime.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Globalization.Calendars.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Globalization.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Globalization.Extensions.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.Compression.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.Compression.ZipFile.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.FileSystem.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.FileSystem.DriveInfo.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.FileSystem.Primitives.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.FileSystem.Watcher.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.IsolatedStorage.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.MemoryMappedFiles.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.Pipes.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.UnmanagedMemoryStream.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Linq.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Linq.Expressions.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Linq.Parallel.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Linq.Queryable.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.Http.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.NameResolution.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.NetworkInformation.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.Ping.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.Primitives.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.Requests.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.Security.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.Sockets.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.WebHeaderCollection.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.WebSockets.Client.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.WebSockets.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.ObjectModel.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Reflection.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Reflection.Extensions.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Reflection.Primitives.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Resources.Reader.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Resources.ResourceManager.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Resources.Writer.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.CompilerServices.VisualC.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Extensions.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Handles.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.InteropServices.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.InteropServices.RuntimeInformation.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Numerics.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Serialization.Formatters.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Serialization.Json.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Serialization.Primitives.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Serialization.Xml.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Claims.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Cryptography.Algorithms.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Cryptography.Csp.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Cryptography.Encoding.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Cryptography.Primitives.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Cryptography.X509Certificates.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Principal.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Security.SecureString.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Text.Encoding.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Text.Encoding.Extensions.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Text.RegularExpressions.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.Overlapped.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.Tasks.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.Tasks.Parallel.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.Thread.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.ThreadPool.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.Timer.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.ValueTuple.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Xml.ReaderWriter.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Xml.XDocument.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Xml.XmlDocument.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Xml.XmlSerializer.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Xml.XPath.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Xml.XPath.XDocument.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/Extensions/2.0.0/System.Numerics.Vectors.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll\"\r\n-r:\"D:/_Games/_Gravity_Studio/DungeonRoguelike/Library/PackageCache/com.unity.cinemachine@2.7.9/Runtime/ThirdParty/clipper_library.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Cinemachine.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/com.unity.cinemachine.editor.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Sprite.Editor.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Tilemap.Editor.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Tilemap.Extras.Editor.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Tilemap.Extras.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.Mathematics.Editor.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.Mathematics.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipeline.Universal.ShaderLibrary.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Core.Editor.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Core.Runtime.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Core.ShaderLibrary.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Universal.Editor.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Universal.Runtime.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Universal.Shaders.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.Searcher.Editor.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.ShaderGraph.Editor.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll\"\r\n\"Assets/Scripts/NodeGraph/RoomNodeGraphSO.cs\"\r\n\"Assets/Scripts/NodeGraph/RoomNodeSO.cs\"\r\n\"Assets/Scripts/NodeGraph/RoomNodeTypeListSO.cs\"\r\n\"Assets/Scripts/NodeGraph/RoomNodeTypeSO.cs\"\r\n\"Assets/Scripts/Utilities/HelperUtilities.cs\"\r\n-langversion:8.0\r\n\r\n/deterministic\r\n/optimize+\r\n/debug:portable\r\n/nologo\r\n/RuntimeMetadataVersion:v4.0.30319\r\n\r\n/nowarn:0169\r\n/nowarn:0649\r\n/utf8output\r\n/preferreduilang:en-US\r\n",
+      "Inputs": [],
+      "Outputs": [
+        "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp"
+      ],
+      "PassIndex": 0,
+      "ToBuildDependencies": [],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": true,
+      "AllowUnwrittenOutputFiles": true,
+      "DebugActionIndex": 206
+    },
+    {
+      "Annotation": "Csc Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll (+2 others)",
+      "Action": "\"D:/_Games/2021.1.7f1/Editor/Data/Tools/Roslyn/csc.exe\" /nostdlib /noconfig /shared \"@Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp\"",
+      "Inputs": [
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.GraphViewModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.PackageManagerUIModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.QuickSearchModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.SceneTemplateModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIBuilderModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIElementsModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIElementsSamplesModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIServiceModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.AccessibilityModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.AndroidJNIModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.AnimationModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ARModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.AssetBundleModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.AudioModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClothModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterInputModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterRendererModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.CrashReportingModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.DirectorModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.DSPGraphModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.GameCenterModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.GIModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.GridModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.HotReloadModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ImageConversionModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.IMGUIModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.InputLegacyModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.InputModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.LocalizationModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.PerformanceReportingModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.Physics2DModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.PhysicsModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ProfilerModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ScreenCaptureModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.SharedInternalsModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteMaskModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteShapeModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.StreamingModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.SubstanceModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.SubsystemsModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainPhysicsModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextCoreModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextRenderingModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.TilemapModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.TLSModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIElementsModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIElementsNativeModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UmbraModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UNETModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityAnalyticsModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityConnectModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityCurlModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityTestProtocolModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAssetBundleModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAudioModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestTextureModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestWWWModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.VehiclesModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.VFXModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.VideoModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.VirtualTexturingModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.VRModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.WindModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/mscorlib.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.ComponentModel.Composition.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Core.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Data.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Drawing.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.IO.Compression.FileSystem.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Net.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Numerics.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Runtime.Serialization.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.ServiceModel.Web.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Transactions.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Web.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Windows.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Linq.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/Microsoft.Win32.Primitives.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.AppContext.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Collections.Concurrent.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Collections.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Collections.NonGeneric.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Collections.Specialized.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.ComponentModel.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.ComponentModel.EventBasedAsync.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.ComponentModel.Primitives.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.ComponentModel.TypeConverter.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Console.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Data.Common.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.Contracts.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.Debug.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.FileVersionInfo.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.Process.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.StackTrace.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.TextWriterTraceListener.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.Tools.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.TraceSource.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.Tracing.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Drawing.Primitives.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Dynamic.Runtime.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Globalization.Calendars.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Globalization.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Globalization.Extensions.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.Compression.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.Compression.ZipFile.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.FileSystem.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.FileSystem.DriveInfo.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.FileSystem.Primitives.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.FileSystem.Watcher.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.IsolatedStorage.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.MemoryMappedFiles.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.Pipes.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.UnmanagedMemoryStream.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Linq.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Linq.Expressions.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Linq.Parallel.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Linq.Queryable.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.Http.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.NameResolution.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.NetworkInformation.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.Ping.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.Primitives.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.Requests.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.Security.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.Sockets.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.WebHeaderCollection.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.WebSockets.Client.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.WebSockets.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.ObjectModel.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Reflection.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Reflection.Extensions.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Reflection.Primitives.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Resources.Reader.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Resources.ResourceManager.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Resources.Writer.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.CompilerServices.VisualC.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Extensions.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Handles.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.InteropServices.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.InteropServices.RuntimeInformation.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Numerics.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Serialization.Formatters.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Serialization.Json.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Serialization.Primitives.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Serialization.Xml.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Claims.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Cryptography.Algorithms.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Cryptography.Csp.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Cryptography.Encoding.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Cryptography.Primitives.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Cryptography.X509Certificates.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Principal.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Security.SecureString.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Text.Encoding.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Text.Encoding.Extensions.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Text.RegularExpressions.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.Overlapped.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.Tasks.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.Tasks.Parallel.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.Thread.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.ThreadPool.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.Timer.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.ValueTuple.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Xml.ReaderWriter.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Xml.XDocument.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Xml.XmlDocument.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Xml.XmlSerializer.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Xml.XPath.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Xml.XPath.XDocument.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/Extensions/2.0.0/System.Numerics.Vectors.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll",
+        "D:/_Games/_Gravity_Studio/DungeonRoguelike/Library/PackageCache/com.unity.cinemachine@2.7.9/Runtime/ThirdParty/clipper_library.dll",
+        "Library/Bee/artifacts/1900b0aE.dag/Cinemachine.ref.dll",
+        "Library/Bee/artifacts/1900b0aE.dag/com.unity.cinemachine.editor.ref.dll",
+        "Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Sprite.Editor.ref.dll",
+        "Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Tilemap.Editor.ref.dll",
+        "Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Tilemap.Extras.Editor.ref.dll",
+        "Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Tilemap.Extras.ref.dll",
+        "Library/Bee/artifacts/1900b0aE.dag/Unity.Mathematics.Editor.ref.dll",
+        "Library/Bee/artifacts/1900b0aE.dag/Unity.Mathematics.ref.dll",
+        "Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipeline.Universal.ShaderLibrary.ref.dll",
+        "Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Core.Editor.ref.dll",
+        "Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Core.Runtime.ref.dll",
+        "Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Core.ShaderLibrary.ref.dll",
+        "Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.ref.dll",
+        "Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Universal.Editor.ref.dll",
+        "Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Universal.Runtime.ref.dll",
+        "Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Universal.Shaders.ref.dll",
+        "Library/Bee/artifacts/1900b0aE.dag/Unity.Searcher.Editor.ref.dll",
+        "Library/Bee/artifacts/1900b0aE.dag/Unity.ShaderGraph.Editor.ref.dll",
+        "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.ref.dll",
+        "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.ref.dll",
+        "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.ref.dll",
+        "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll",
+        "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll",
+        "Assets/Scripts/NodeGraph/RoomNodeGraphSO.cs",
+        "Assets/Scripts/NodeGraph/RoomNodeSO.cs",
+        "Assets/Scripts/NodeGraph/RoomNodeTypeListSO.cs",
+        "Assets/Scripts/NodeGraph/RoomNodeTypeSO.cs",
+        "Assets/Scripts/Utilities/HelperUtilities.cs",
+        "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll",
+        "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.pdb",
+        "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.ref.dll"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [
+        90,
+        99,
+        105,
+        110,
+        114,
+        118,
+        122,
+        126,
+        130,
+        134,
+        138,
+        146,
+        150,
+        154,
+        160,
+        165,
+        170,
+        174,
+        180,
+        185,
+        190,
+        195,
+        202,
+        206
+      ],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [
+        "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp"
+      ],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 207
+    },
+    {
+      "Annotation": "MovedFromExtractor Library/Bee/artifacts/movedfrom/Unity.2D.Sprite.Editor.ref.dll_15977261275114544680.movedfrom",
+      "Action": "\"D:\\_Games\\2021.1.7f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"D:/_Games/2021.1.7f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library\\Bee\\artifacts\\movedfrom\\Unity.2D.Sprite.Editor.ref.dll_15977261275114544680.movedfrom\" \"Library\\Bee\\artifacts\\1900b0aE.dag\\Unity.2D.Sprite.Editor.ref.dll\"",
+      "Inputs": [
+        "Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Sprite.Editor.ref.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/movedfrom/Unity.2D.Sprite.Editor.ref.dll_15977261275114544680.movedfrom"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [
+        105
+      ],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 208
+    },
+    {
+      "Annotation": "MovedFromExtractor Library/Bee/artifacts/movedfrom/Unity.2D.Tilemap.Extras.Editor.ref.dll_10205161182716544682.movedfrom",
+      "Action": "\"D:\\_Games\\2021.1.7f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"D:/_Games/2021.1.7f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library\\Bee\\artifacts\\movedfrom\\Unity.2D.Tilemap.Extras.Editor.ref.dll_10205161182716544682.movedfrom\" \"Library\\Bee\\artifacts\\1900b0aE.dag\\Unity.2D.Tilemap.Extras.Editor.ref.dll\"",
+      "Inputs": [
+        "Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Tilemap.Extras.Editor.ref.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/movedfrom/Unity.2D.Tilemap.Extras.Editor.ref.dll_10205161182716544682.movedfrom"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [
+        154
+      ],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 209
+    },
+    {
+      "Annotation": "MovedFromExtractor Library/Bee/artifacts/movedfrom/Unity.RenderPipelines.Core.ShaderLibrary.ref.dll_9163770854126867736.movedfrom",
+      "Action": "\"D:\\_Games\\2021.1.7f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"D:/_Games/2021.1.7f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library\\Bee\\artifacts\\movedfrom\\Unity.RenderPipelines.Core.ShaderLibrary.ref.dll_9163770854126867736.movedfrom\" \"Library\\Bee\\artifacts\\1900b0aE.dag\\Unity.RenderPipelines.Core.ShaderLibrary.ref.dll\"",
+      "Inputs": [
+        "Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Core.ShaderLibrary.ref.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/movedfrom/Unity.RenderPipelines.Core.ShaderLibrary.ref.dll_9163770854126867736.movedfrom"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [
+        126
+      ],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 210
+    },
+    {
+      "Annotation": "MovedFromExtractor Library/Bee/artifacts/movedfrom/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.ref.dll_1882649454426767128.movedfrom",
+      "Action": "\"D:\\_Games\\2021.1.7f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"D:/_Games/2021.1.7f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library\\Bee\\artifacts\\movedfrom\\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.ref.dll_1882649454426767128.movedfrom\" \"Library\\Bee\\artifacts\\1900b0aE.dag\\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.ref.dll\"",
+      "Inputs": [
+        "Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.ref.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/movedfrom/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.ref.dll_1882649454426767128.movedfrom"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [
+        130
+      ],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 211
+    },
+    {
+      "Annotation": "MovedFromExtractor Library/Bee/artifacts/movedfrom/Unity.RenderPipelines.Universal.Shaders.ref.dll_10693991190924822304.movedfrom",
+      "Action": "\"D:\\_Games\\2021.1.7f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"D:/_Games/2021.1.7f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library\\Bee\\artifacts\\movedfrom\\Unity.RenderPipelines.Universal.Shaders.ref.dll_10693991190924822304.movedfrom\" \"Library\\Bee\\artifacts\\1900b0aE.dag\\Unity.RenderPipelines.Universal.Shaders.ref.dll\"",
+      "Inputs": [
+        "Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Universal.Shaders.ref.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/movedfrom/Unity.RenderPipelines.Universal.Shaders.ref.dll_10693991190924822304.movedfrom"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [
+        134
+      ],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 212
+    },
+    {
+      "Annotation": "MovedFromExtractor Library/Bee/artifacts/movedfrom/Unity.TextMeshPro.Editor.ref.dll_1557689244747631494.movedfrom",
+      "Action": "\"D:\\_Games\\2021.1.7f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"D:/_Games/2021.1.7f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library\\Bee\\artifacts\\movedfrom\\Unity.TextMeshPro.Editor.ref.dll_1557689244747631494.movedfrom\" \"Library\\Bee\\artifacts\\1900b0aE.dag\\Unity.TextMeshPro.Editor.ref.dll\"",
+      "Inputs": [
+        "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.ref.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/movedfrom/Unity.TextMeshPro.Editor.ref.dll_1557689244747631494.movedfrom"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [
+        180
+      ],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 213
+    },
+    {
+      "Annotation": "MovedFromExtractor Library/Bee/artifacts/movedfrom/Unity.VisualStudio.Editor.ref.dll_4221946230532187309.movedfrom",
+      "Action": "\"D:\\_Games\\2021.1.7f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"D:/_Games/2021.1.7f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library\\Bee\\artifacts\\movedfrom\\Unity.VisualStudio.Editor.ref.dll_4221946230532187309.movedfrom\" \"Library\\Bee\\artifacts\\1900b0aE.dag\\Unity.VisualStudio.Editor.ref.dll\"",
+      "Inputs": [
+        "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.ref.dll",
+        "D:/_Games/2021.1.7f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/movedfrom/Unity.VisualStudio.Editor.ref.dll_4221946230532187309.movedfrom"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [
+        150
+      ],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 214
+    },
+    {
+      "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.movedfrom.rsp",
+      "WriteTextFilePayload": "Library\\Bee\\artifacts\\movedfrom\\Unity.2D.Sprite.Editor.ref.dll_15977261275114544680.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\Unity.2D.Tilemap.Editor.ref.dll_4858273654674696337.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\Unity.2D.Tilemap.Extras.Editor.ref.dll_10205161182716544682.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\Unity.2D.Tilemap.Extras.ref.dll_3971670665523324279.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\Unity.Mathematics.Editor.ref.dll_11106105192880348995.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\Unity.Mathematics.ref.dll_16784875247615350606.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\Unity.RenderPipeline.Universal.ShaderLibrary.ref.dll_6068312011569950091.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\Unity.RenderPipelines.Core.Editor.ref.dll_5110349078272833937.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\Unity.RenderPipelines.Core.Runtime.ref.dll_14873774152507386634.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\Unity.RenderPipelines.Core.ShaderLibrary.ref.dll_9163770854126867736.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.ref.dll_1882649454426767128.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\Unity.RenderPipelines.Universal.Editor.ref.dll_1150577793437144753.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\Unity.RenderPipelines.Universal.Runtime.ref.dll_6053014967665060842.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\Unity.RenderPipelines.Universal.Shaders.ref.dll_10693991190924822304.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\Unity.Searcher.Editor.ref.dll_1348794520514444814.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\Unity.ShaderGraph.Editor.ref.dll_1103405175732373968.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\Unity.TextMeshPro.Editor.ref.dll_1557689244747631494.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\Unity.TextMeshPro.ref.dll_9557809654341403355.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\Unity.VisualStudio.Editor.ref.dll_4221946230532187309.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEditor.UI.ref.dll_5519394401220875509.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.UI.ref.dll_648142665722821984.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEditor.CoreModule.dll_16235210157036366335.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEditor.DeviceSimulatorModule.dll_16681198891055537394.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEditor.dll_447352425644457830.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEditor.GraphViewModule.dll_13910100245741325975.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEditor.PackageManagerUIModule.dll_4224235214710472347.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEditor.QuickSearchModule.dll_10771355299697983257.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEditor.SceneTemplateModule.dll_15155076541336586938.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEditor.UIBuilderModule.dll_1554665005745752011.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEditor.UIElementsModule.dll_16997536906039983835.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEditor.UIElementsSamplesModule.dll_14685623402942064962.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEditor.UIServiceModule.dll_5658026332750878693.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEditor.UnityConnectModule.dll_10450611405761157173.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.AccessibilityModule.dll_357773836972667479.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.AIModule.dll_12029521073631358579.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.AndroidJNIModule.dll_7650571873595059633.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.AnimationModule.dll_10344793230651499325.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.ARModule.dll_6945736662521269564.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.AssetBundleModule.dll_15664853782132143115.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.AudioModule.dll_6678923631339236591.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.ClothModule.dll_14094202650275662803.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.ClusterInputModule.dll_1199220607268547323.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.ClusterRendererModule.dll_17090114349701032566.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.CoreModule.dll_319721425868739882.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.CrashReportingModule.dll_3262592714103277314.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.DirectorModule.dll_4810529824147905991.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.dll_4096471918832913483.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.DSPGraphModule.dll_5193724372969516776.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.GameCenterModule.dll_10698745875250503330.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.GIModule.dll_4552500115084826253.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.GridModule.dll_16276287090043480865.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.HotReloadModule.dll_1213953918519492287.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.ImageConversionModule.dll_6421647241976554090.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.IMGUIModule.dll_10741064284011331792.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.InputLegacyModule.dll_7685912435527346684.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.InputModule.dll_14061950356194595219.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.JSONSerializeModule.dll_7281927679856251617.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.LocalizationModule.dll_5688405991927700980.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.ParticleSystemModule.dll_9248520161445073552.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.PerformanceReportingModule.dll_14225858127114277865.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.Physics2DModule.dll_15867877565463403218.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.PhysicsModule.dll_2911263778745490336.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.ProfilerModule.dll_8433175681077847252.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll_11688163887577051035.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.ScreenCaptureModule.dll_9148579037509500739.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.SharedInternalsModule.dll_15938103816135581114.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.SpriteMaskModule.dll_9053932074715247644.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.SpriteShapeModule.dll_17493646573438888981.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.StreamingModule.dll_4910335309509614203.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.SubstanceModule.dll_2364416450190629001.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.SubsystemsModule.dll_16740844783965232175.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.TerrainModule.dll_4804600188063999118.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.TerrainPhysicsModule.dll_9283045733219159325.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.TextCoreModule.dll_15815871467726343639.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.TextRenderingModule.dll_12120798706946424632.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.TilemapModule.dll_16260745544334394775.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.TLSModule.dll_10727917465296209012.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.UIElementsModule.dll_17046633708030728230.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.UIElementsNativeModule.dll_9590754199645974205.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.UIModule.dll_11701776643422319647.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.UmbraModule.dll_15529812020476418146.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.UNETModule.dll_10886934068885965475.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.UnityAnalyticsModule.dll_11527184109396829324.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.UnityConnectModule.dll_9108402441695664352.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.UnityCurlModule.dll_14027789059639547178.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.UnityTestProtocolModule.dll_9768455612303261336.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.UnityWebRequestAssetBundleModule.dll_14165313297900425309.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.UnityWebRequestAudioModule.dll_4424991653252226689.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.UnityWebRequestModule.dll_7691389288827960553.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.UnityWebRequestTextureModule.dll_3839976915866467958.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.UnityWebRequestWWWModule.dll_15697970423339353330.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.VehiclesModule.dll_13440263986048920930.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.VFXModule.dll_1567200475082517985.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.VideoModule.dll_9347733479598721172.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.VirtualTexturingModule.dll_12224432469925588808.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.VRModule.dll_17669651455027509655.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.WindModule.dll_8844713537809109907.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEngine.XRModule.dll_2879481753038964469.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEditor.iOS.Extensions.Common.dll_3679795919583940708.movedfrom\r\nLibrary\\Bee\\artifacts\\movedfrom\\UnityEditor.iOS.Extensions.Xcode.dll_1850412811343662888.movedfrom",
+      "Inputs": [],
+      "Outputs": [
+        "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.movedfrom.rsp"
+      ],
+      "PassIndex": 0,
+      "ToBuildDependencies": [],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": true,
+      "AllowUnwrittenOutputFiles": true,
+      "DebugActionIndex": 215
+    },
+    {
+      "Annotation": "MovedFromExtractorCombine Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.movedfrom",
+      "Action": "\"D:\\_Games\\2021.1.7f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"D:/_Games/2021.1.7f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.movedfrom\" \"@Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.movedfrom.rsp\"",
+      "Inputs": [
+        "Library/Bee/artifacts/movedfrom/Unity.2D.Sprite.Editor.ref.dll_15977261275114544680.movedfrom",
+        "Library/Bee/artifacts/movedfrom/Unity.2D.Tilemap.Editor.ref.dll_4858273654674696337.movedfrom",
+        "Library/Bee/artifacts/movedfrom/Unity.2D.Tilemap.Extras.Editor.ref.dll_10205161182716544682.movedfrom",
+        "Library/Bee/artifacts/movedfrom/Unity.2D.Tilemap.Extras.ref.dll_3971670665523324279.movedfrom",
+        "Library/Bee/artifacts/movedfrom/Unity.Mathematics.Editor.ref.dll_11106105192880348995.movedfrom",
+        "Library/Bee/artifacts/movedfrom/Unity.Mathematics.ref.dll_16784875247615350606.movedfrom",
+        "Library/Bee/artifacts/movedfrom/Unity.RenderPipeline.Universal.ShaderLibrary.ref.dll_6068312011569950091.movedfrom",
+        "Library/Bee/artifacts/movedfrom/Unity.RenderPipelines.Core.Editor.ref.dll_5110349078272833937.movedfrom",
+        "Library/Bee/artifacts/movedfrom/Unity.RenderPipelines.Core.Runtime.ref.dll_14873774152507386634.movedfrom",
+        "Library/Bee/artifacts/movedfrom/Unity.RenderPipelines.Core.ShaderLibrary.ref.dll_9163770854126867736.movedfrom",
+        "Library/Bee/artifacts/movedfrom/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.ref.dll_1882649454426767128.movedfrom",
+        "Library/Bee/artifacts/movedfrom/Unity.RenderPipelines.Universal.Editor.ref.dll_1150577793437144753.movedfrom",
+        "Library/Bee/artifacts/movedfrom/Unity.RenderPipelines.Universal.Runtime.ref.dll_6053014967665060842.movedfrom",
+        "Library/Bee/artifacts/movedfrom/Unity.RenderPipelines.Universal.Shaders.ref.dll_10693991190924822304.movedfrom",
+        "Library/Bee/artifacts/movedfrom/Unity.Searcher.Editor.ref.dll_1348794520514444814.movedfrom",
+        "Library/Bee/artifacts/movedfrom/Unity.ShaderGraph.Editor.ref.dll_1103405175732373968.movedfrom",
+        "Library/Bee/artifacts/movedfrom/Unity.TextMeshPro.Editor.ref.dll_1557689244747631494.movedfrom",
+        "Library/Bee/artifacts/movedfrom/Unity.TextMeshPro.ref.dll_9557809654341403355.movedfrom",
+        "Library/Bee/artifacts/movedfrom/Unity.VisualStudio.Editor.ref.dll_4221946230532187309.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEditor.UI.ref.dll_5519394401220875509.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.UI.ref.dll_648142665722821984.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEditor.CoreModule.dll_16235210157036366335.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEditor.DeviceSimulatorModule.dll_16681198891055537394.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEditor.dll_447352425644457830.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEditor.GraphViewModule.dll_13910100245741325975.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEditor.PackageManagerUIModule.dll_4224235214710472347.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEditor.QuickSearchModule.dll_10771355299697983257.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEditor.SceneTemplateModule.dll_15155076541336586938.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEditor.UIBuilderModule.dll_1554665005745752011.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEditor.UIElementsModule.dll_16997536906039983835.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEditor.UIElementsSamplesModule.dll_14685623402942064962.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEditor.UIServiceModule.dll_5658026332750878693.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEditor.UnityConnectModule.dll_10450611405761157173.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.AccessibilityModule.dll_357773836972667479.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.AIModule.dll_12029521073631358579.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.AndroidJNIModule.dll_7650571873595059633.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.AnimationModule.dll_10344793230651499325.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.ARModule.dll_6945736662521269564.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.AssetBundleModule.dll_15664853782132143115.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.AudioModule.dll_6678923631339236591.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.ClothModule.dll_14094202650275662803.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.ClusterInputModule.dll_1199220607268547323.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.ClusterRendererModule.dll_17090114349701032566.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.CoreModule.dll_319721425868739882.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.CrashReportingModule.dll_3262592714103277314.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.DirectorModule.dll_4810529824147905991.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.dll_4096471918832913483.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.DSPGraphModule.dll_5193724372969516776.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.GameCenterModule.dll_10698745875250503330.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.GIModule.dll_4552500115084826253.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.GridModule.dll_16276287090043480865.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.HotReloadModule.dll_1213953918519492287.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.ImageConversionModule.dll_6421647241976554090.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.IMGUIModule.dll_10741064284011331792.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.InputLegacyModule.dll_7685912435527346684.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.InputModule.dll_14061950356194595219.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.JSONSerializeModule.dll_7281927679856251617.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.LocalizationModule.dll_5688405991927700980.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.ParticleSystemModule.dll_9248520161445073552.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.PerformanceReportingModule.dll_14225858127114277865.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.Physics2DModule.dll_15867877565463403218.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.PhysicsModule.dll_2911263778745490336.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.ProfilerModule.dll_8433175681077847252.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll_11688163887577051035.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.ScreenCaptureModule.dll_9148579037509500739.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.SharedInternalsModule.dll_15938103816135581114.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.SpriteMaskModule.dll_9053932074715247644.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.SpriteShapeModule.dll_17493646573438888981.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.StreamingModule.dll_4910335309509614203.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.SubstanceModule.dll_2364416450190629001.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.SubsystemsModule.dll_16740844783965232175.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.TerrainModule.dll_4804600188063999118.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.TerrainPhysicsModule.dll_9283045733219159325.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.TextCoreModule.dll_15815871467726343639.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.TextRenderingModule.dll_12120798706946424632.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.TilemapModule.dll_16260745544334394775.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.TLSModule.dll_10727917465296209012.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.UIElementsModule.dll_17046633708030728230.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.UIElementsNativeModule.dll_9590754199645974205.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.UIModule.dll_11701776643422319647.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.UmbraModule.dll_15529812020476418146.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.UNETModule.dll_10886934068885965475.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.UnityAnalyticsModule.dll_11527184109396829324.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.UnityConnectModule.dll_9108402441695664352.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.UnityCurlModule.dll_14027789059639547178.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.UnityTestProtocolModule.dll_9768455612303261336.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.UnityWebRequestAssetBundleModule.dll_14165313297900425309.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.UnityWebRequestAudioModule.dll_4424991653252226689.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.UnityWebRequestModule.dll_7691389288827960553.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.UnityWebRequestTextureModule.dll_3839976915866467958.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.UnityWebRequestWWWModule.dll_15697970423339353330.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.VehiclesModule.dll_13440263986048920930.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.VFXModule.dll_1567200475082517985.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.VideoModule.dll_9347733479598721172.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.VirtualTexturingModule.dll_12224432469925588808.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.VRModule.dll_17669651455027509655.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.WindModule.dll_8844713537809109907.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEngine.XRModule.dll_2879481753038964469.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEditor.iOS.Extensions.Common.dll_3679795919583940708.movedfrom",
+        "Library/Bee/artifacts/movedfrom/UnityEditor.iOS.Extensions.Xcode.dll_1850412811343662888.movedfrom",
+        "D:/_Games/2021.1.7f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe",
+        "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.movedfrom.rsp"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.movedfrom"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        83,
+        85,
+        101,
+        106,
+        155,
+        156,
+        161,
+        166,
+        175,
+        181,
+        186,
+        191,
+        196,
+        197,
+        198,
+        203,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215
+      ],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 216
+    },
+    {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.rsp",
-      "WriteTextFilePayload": "-target:library\r\n-out:\"Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.dll\"\r\n-refout:\"Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.ref.dll\"\r\n-define:UNITY_2021_1_7\r\n-define:UNITY_2021_1\r\n-define:UNITY_2021\r\n-define:UNITY_5_3_OR_NEWER\r\n-define:UNITY_5_4_OR_NEWER\r\n-define:UNITY_5_5_OR_NEWER\r\n-define:UNITY_5_6_OR_NEWER\r\n-define:UNITY_2017_1_OR_NEWER\r\n-define:UNITY_2017_2_OR_NEWER\r\n-define:UNITY_2017_3_OR_NEWER\r\n-define:UNITY_2017_4_OR_NEWER\r\n-define:UNITY_2018_1_OR_NEWER\r\n-define:UNITY_2018_2_OR_NEWER\r\n-define:UNITY_2018_3_OR_NEWER\r\n-define:UNITY_2018_4_OR_NEWER\r\n-define:UNITY_2019_1_OR_NEWER\r\n-define:UNITY_2019_2_OR_NEWER\r\n-define:UNITY_2019_3_OR_NEWER\r\n-define:UNITY_2019_4_OR_NEWER\r\n-define:UNITY_2020_1_OR_NEWER\r\n-define:UNITY_2020_2_OR_NEWER\r\n-define:UNITY_2020_3_OR_NEWER\r\n-define:UNITY_2021_1_OR_NEWER\r\n-define:PLATFORM_ARCH_64\r\n-define:UNITY_64\r\n-define:UNITY_INCLUDE_TESTS\r\n-define:USE_SEARCH_ENGINE_API\r\n-define:USE_QUICK_SEARCH_MODULE\r\n-define:SCENE_TEMPLATE_MODULE\r\n-define:ENABLE_AR\r\n-define:ENABLE_AUDIO\r\n-define:ENABLE_CACHING\r\n-define:ENABLE_CLOTH\r\n-define:ENABLE_EVENT_QUEUE\r\n-define:ENABLE_MICROPHONE\r\n-define:ENABLE_MULTIPLE_DISPLAYS\r\n-define:ENABLE_PHYSICS\r\n-define:ENABLE_TEXTURE_STREAMING\r\n-define:ENABLE_VIRTUALTEXTURING\r\n-define:ENABLE_UNET\r\n-define:ENABLE_LZMA\r\n-define:ENABLE_UNITYEVENTS\r\n-define:ENABLE_VR\r\n-define:ENABLE_WEBCAM\r\n-define:ENABLE_UNITYWEBREQUEST\r\n-define:ENABLE_WWW\r\n-define:ENABLE_CLOUD_SERVICES\r\n-define:ENABLE_CLOUD_SERVICES_COLLAB\r\n-define:ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS\r\n-define:ENABLE_CLOUD_SERVICES_ADS\r\n-define:ENABLE_CLOUD_SERVICES_USE_WEBREQUEST\r\n-define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING\r\n-define:ENABLE_CLOUD_SERVICES_PURCHASING\r\n-define:ENABLE_CLOUD_SERVICES_ANALYTICS\r\n-define:ENABLE_CLOUD_SERVICES_UNET\r\n-define:ENABLE_CLOUD_SERVICES_BUILD\r\n-define:ENABLE_CLOUD_LICENSE\r\n-define:ENABLE_EDITOR_HUB_LICENSE\r\n-define:ENABLE_WEBSOCKET_CLIENT\r\n-define:ENABLE_DIRECTOR_AUDIO\r\n-define:ENABLE_DIRECTOR_TEXTURE\r\n-define:ENABLE_MANAGED_JOBS\r\n-define:ENABLE_MANAGED_TRANSFORM_JOBS\r\n-define:ENABLE_MANAGED_ANIMATION_JOBS\r\n-define:ENABLE_MANAGED_AUDIO_JOBS\r\n-define:INCLUDE_DYNAMIC_GI\r\n-define:ENABLE_MONO_BDWGC\r\n-define:ENABLE_SCRIPTING_GC_WBARRIERS\r\n-define:PLATFORM_SUPPORTS_MONO\r\n-define:RENDER_SOFTWARE_CURSOR\r\n-define:ENABLE_VIDEO\r\n-define:PLATFORM_STANDALONE\r\n-define:PLATFORM_STANDALONE_WIN\r\n-define:UNITY_STANDALONE_WIN\r\n-define:UNITY_STANDALONE\r\n-define:ENABLE_RUNTIME_GI\r\n-define:ENABLE_MOVIES\r\n-define:ENABLE_NETWORK\r\n-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION\r\n-define:ENABLE_OUT_OF_PROCESS_CRASH_HANDLER\r\n-define:ENABLE_CLUSTER_SYNC\r\n-define:ENABLE_CLUSTERINPUT\r\n-define:PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP\r\n-define:GFXDEVICE_WAITFOREVENT_MESSAGEPUMP\r\n-define:ENABLE_WEBSOCKET_HOST\r\n-define:ENABLE_MONO\r\n-define:NET_4_6\r\n-define:ENABLE_PROFILER\r\n-define:DEBUG\r\n-define:TRACE\r\n-define:UNITY_ASSERTIONS\r\n-define:UNITY_EDITOR\r\n-define:UNITY_EDITOR_64\r\n-define:UNITY_EDITOR_WIN\r\n-define:ENABLE_UNITY_COLLECTIONS_CHECKS\r\n-define:ENABLE_BURST_AOT\r\n-define:UNITY_TEAM_LICENSE\r\n-define:ENABLE_CUSTOM_RENDER_TEXTURE\r\n-define:ENABLE_DIRECTOR\r\n-define:ENABLE_LOCALIZATION\r\n-define:ENABLE_SPRITES\r\n-define:ENABLE_TERRAIN\r\n-define:ENABLE_TILEMAP\r\n-define:ENABLE_TIMELINE\r\n-define:ENABLE_LEGACY_INPUT_MANAGER\r\n-define:CSHARP_7_OR_LATER\r\n-define:CSHARP_7_3_OR_NEWER\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEditor.Graphs.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.GraphViewModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.PackageManagerUIModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.QuickSearchModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.SceneTemplateModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIBuilderModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIElementsModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIElementsSamplesModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIServiceModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.AccessibilityModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.AndroidJNIModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.AnimationModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ARModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.AssetBundleModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.AudioModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClothModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterInputModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterRendererModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.CrashReportingModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.DirectorModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.DSPGraphModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.GameCenterModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.GIModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.GridModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.HotReloadModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ImageConversionModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.IMGUIModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.InputLegacyModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.InputModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.LocalizationModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.PerformanceReportingModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.Physics2DModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.PhysicsModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ProfilerModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ScreenCaptureModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.SharedInternalsModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteMaskModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteShapeModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.StreamingModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.SubstanceModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.SubsystemsModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainPhysicsModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextCoreModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextRenderingModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.TilemapModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.TLSModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIElementsModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIElementsNativeModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UmbraModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UNETModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityAnalyticsModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityConnectModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityCurlModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityTestProtocolModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAssetBundleModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAudioModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestTextureModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestWWWModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.VehiclesModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.VFXModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.VideoModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.VirtualTexturingModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.VRModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.WindModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/Microsoft.Win32.Primitives.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/netstandard.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.AppContext.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Collections.Concurrent.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Collections.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Collections.NonGeneric.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Collections.Specialized.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.ComponentModel.Annotations.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.ComponentModel.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.ComponentModel.EventBasedAsync.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.ComponentModel.Primitives.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.ComponentModel.TypeConverter.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Console.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Data.Common.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Diagnostics.Contracts.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Diagnostics.Debug.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Diagnostics.FileVersionInfo.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Diagnostics.Process.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Diagnostics.StackTrace.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Diagnostics.TextWriterTraceListener.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Diagnostics.Tools.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Diagnostics.TraceSource.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Drawing.Primitives.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Dynamic.Runtime.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Globalization.Calendars.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Globalization.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Globalization.Extensions.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.IO.Compression.ZipFile.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.IO.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.IO.FileSystem.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.IO.FileSystem.DriveInfo.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.IO.FileSystem.Primitives.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.IO.FileSystem.Watcher.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.IO.IsolatedStorage.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.IO.MemoryMappedFiles.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.IO.Pipes.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.IO.UnmanagedMemoryStream.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Linq.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Linq.Expressions.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Linq.Parallel.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Linq.Queryable.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Net.Http.Rtc.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Net.NameResolution.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Net.NetworkInformation.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Net.Ping.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Net.Primitives.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Net.Requests.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Net.Security.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Net.Sockets.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Net.WebHeaderCollection.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Net.WebSockets.Client.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Net.WebSockets.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.ObjectModel.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Reflection.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Reflection.Emit.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Reflection.Emit.ILGeneration.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Reflection.Emit.Lightweight.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Reflection.Extensions.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Reflection.Primitives.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Resources.Reader.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Resources.ResourceManager.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Resources.Writer.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Runtime.CompilerServices.VisualC.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Runtime.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Runtime.Extensions.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Runtime.Handles.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Runtime.InteropServices.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Runtime.InteropServices.RuntimeInformation.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Runtime.InteropServices.WindowsRuntime.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Runtime.Numerics.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Runtime.Serialization.Formatters.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Runtime.Serialization.Json.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Runtime.Serialization.Primitives.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Runtime.Serialization.Xml.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Security.Claims.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Security.Cryptography.Algorithms.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Security.Cryptography.Csp.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Security.Cryptography.Encoding.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Security.Cryptography.Primitives.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Security.Cryptography.X509Certificates.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Security.Principal.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Security.SecureString.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.ServiceModel.Duplex.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.ServiceModel.Http.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.ServiceModel.NetTcp.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.ServiceModel.Primitives.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.ServiceModel.Security.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Text.Encoding.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Text.Encoding.Extensions.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Text.RegularExpressions.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Threading.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Threading.Overlapped.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Threading.Tasks.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Threading.Tasks.Parallel.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Threading.Thread.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Threading.ThreadPool.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Threading.Timer.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.ValueTuple.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Xml.ReaderWriter.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Xml.XDocument.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Xml.XmlDocument.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Xml.XmlSerializer.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Xml.XPath.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Xml.XPath.XDocument.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Microsoft.CSharp.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Core.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Data.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.IO.Compression.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Net.Http.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Numerics.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Numerics.Vectors.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Runtime.Serialization.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Xml.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Xml.Linq.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll\"\r\n-r:\"D:/_Games/_Gravity_Studio/DungeonRoguelike/Library/PackageCache/com.unity.cinemachine@2.7.9/Runtime/ThirdParty/clipper_library.dll\"\r\n-r:\"D:/_Games/_Gravity_Studio/DungeonRoguelike/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Cinemachine.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/com.unity.cinemachine.editor.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Sprite.Editor.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Tilemap.Editor.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Tilemap.Extras.Editor.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Tilemap.Extras.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.Mathematics.Editor.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.Mathematics.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipeline.Universal.ShaderLibrary.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Core.Editor.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Core.Runtime.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Core.ShaderLibrary.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Universal.Editor.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Universal.Runtime.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Universal.Shaders.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.Searcher.Editor.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.ShaderGraph.Editor.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll\"\r\n\"Assets/CourseAssets/Tilemap/CustomBrushScripts/CoordinateBrush/Editor/CoordinateBrush.cs\"\r\n-langversion:8.0\r\n\r\n/deterministic\r\n/optimize+\r\n/debug:portable\r\n/nologo\r\n/RuntimeMetadataVersion:v4.0.30319\r\n\r\n/nowarn:0169\r\n/nowarn:0649\r\n/utf8output\r\n/preferreduilang:en-US\r\n",
+      "WriteTextFilePayload": "-target:library\r\n-out:\"Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.dll\"\r\n-refout:\"Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.ref.dll\"\r\n-define:UNITY_2021_1_7\r\n-define:UNITY_2021_1\r\n-define:UNITY_2021\r\n-define:UNITY_5_3_OR_NEWER\r\n-define:UNITY_5_4_OR_NEWER\r\n-define:UNITY_5_5_OR_NEWER\r\n-define:UNITY_5_6_OR_NEWER\r\n-define:UNITY_2017_1_OR_NEWER\r\n-define:UNITY_2017_2_OR_NEWER\r\n-define:UNITY_2017_3_OR_NEWER\r\n-define:UNITY_2017_4_OR_NEWER\r\n-define:UNITY_2018_1_OR_NEWER\r\n-define:UNITY_2018_2_OR_NEWER\r\n-define:UNITY_2018_3_OR_NEWER\r\n-define:UNITY_2018_4_OR_NEWER\r\n-define:UNITY_2019_1_OR_NEWER\r\n-define:UNITY_2019_2_OR_NEWER\r\n-define:UNITY_2019_3_OR_NEWER\r\n-define:UNITY_2019_4_OR_NEWER\r\n-define:UNITY_2020_1_OR_NEWER\r\n-define:UNITY_2020_2_OR_NEWER\r\n-define:UNITY_2020_3_OR_NEWER\r\n-define:UNITY_2021_1_OR_NEWER\r\n-define:PLATFORM_ARCH_64\r\n-define:UNITY_64\r\n-define:UNITY_INCLUDE_TESTS\r\n-define:USE_SEARCH_ENGINE_API\r\n-define:USE_QUICK_SEARCH_MODULE\r\n-define:SCENE_TEMPLATE_MODULE\r\n-define:ENABLE_AR\r\n-define:ENABLE_AUDIO\r\n-define:ENABLE_CACHING\r\n-define:ENABLE_CLOTH\r\n-define:ENABLE_EVENT_QUEUE\r\n-define:ENABLE_MICROPHONE\r\n-define:ENABLE_MULTIPLE_DISPLAYS\r\n-define:ENABLE_PHYSICS\r\n-define:ENABLE_TEXTURE_STREAMING\r\n-define:ENABLE_VIRTUALTEXTURING\r\n-define:ENABLE_UNET\r\n-define:ENABLE_LZMA\r\n-define:ENABLE_UNITYEVENTS\r\n-define:ENABLE_VR\r\n-define:ENABLE_WEBCAM\r\n-define:ENABLE_UNITYWEBREQUEST\r\n-define:ENABLE_WWW\r\n-define:ENABLE_CLOUD_SERVICES\r\n-define:ENABLE_CLOUD_SERVICES_COLLAB\r\n-define:ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS\r\n-define:ENABLE_CLOUD_SERVICES_ADS\r\n-define:ENABLE_CLOUD_SERVICES_USE_WEBREQUEST\r\n-define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING\r\n-define:ENABLE_CLOUD_SERVICES_PURCHASING\r\n-define:ENABLE_CLOUD_SERVICES_ANALYTICS\r\n-define:ENABLE_CLOUD_SERVICES_UNET\r\n-define:ENABLE_CLOUD_SERVICES_BUILD\r\n-define:ENABLE_CLOUD_LICENSE\r\n-define:ENABLE_EDITOR_HUB_LICENSE\r\n-define:ENABLE_WEBSOCKET_CLIENT\r\n-define:ENABLE_DIRECTOR_AUDIO\r\n-define:ENABLE_DIRECTOR_TEXTURE\r\n-define:ENABLE_MANAGED_JOBS\r\n-define:ENABLE_MANAGED_TRANSFORM_JOBS\r\n-define:ENABLE_MANAGED_ANIMATION_JOBS\r\n-define:ENABLE_MANAGED_AUDIO_JOBS\r\n-define:INCLUDE_DYNAMIC_GI\r\n-define:ENABLE_MONO_BDWGC\r\n-define:ENABLE_SCRIPTING_GC_WBARRIERS\r\n-define:PLATFORM_SUPPORTS_MONO\r\n-define:RENDER_SOFTWARE_CURSOR\r\n-define:ENABLE_VIDEO\r\n-define:PLATFORM_STANDALONE\r\n-define:PLATFORM_STANDALONE_WIN\r\n-define:UNITY_STANDALONE_WIN\r\n-define:UNITY_STANDALONE\r\n-define:ENABLE_RUNTIME_GI\r\n-define:ENABLE_MOVIES\r\n-define:ENABLE_NETWORK\r\n-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION\r\n-define:ENABLE_OUT_OF_PROCESS_CRASH_HANDLER\r\n-define:ENABLE_CLUSTER_SYNC\r\n-define:ENABLE_CLUSTERINPUT\r\n-define:PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP\r\n-define:GFXDEVICE_WAITFOREVENT_MESSAGEPUMP\r\n-define:ENABLE_WEBSOCKET_HOST\r\n-define:ENABLE_MONO\r\n-define:NET_4_6\r\n-define:ENABLE_PROFILER\r\n-define:DEBUG\r\n-define:TRACE\r\n-define:UNITY_ASSERTIONS\r\n-define:UNITY_EDITOR\r\n-define:UNITY_EDITOR_64\r\n-define:UNITY_EDITOR_WIN\r\n-define:ENABLE_UNITY_COLLECTIONS_CHECKS\r\n-define:ENABLE_BURST_AOT\r\n-define:UNITY_TEAM_LICENSE\r\n-define:ENABLE_CUSTOM_RENDER_TEXTURE\r\n-define:ENABLE_DIRECTOR\r\n-define:ENABLE_LOCALIZATION\r\n-define:ENABLE_SPRITES\r\n-define:ENABLE_TERRAIN\r\n-define:ENABLE_TILEMAP\r\n-define:ENABLE_TIMELINE\r\n-define:ENABLE_LEGACY_INPUT_MANAGER\r\n-define:CSHARP_7_OR_LATER\r\n-define:CSHARP_7_3_OR_NEWER\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEditor.Graphs.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.GraphViewModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.PackageManagerUIModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.QuickSearchModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.SceneTemplateModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIBuilderModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIElementsModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIElementsSamplesModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIServiceModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.AccessibilityModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.AndroidJNIModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.AnimationModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ARModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.AssetBundleModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.AudioModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClothModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterInputModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterRendererModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.CrashReportingModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.DirectorModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.DSPGraphModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.GameCenterModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.GIModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.GridModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.HotReloadModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ImageConversionModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.IMGUIModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.InputLegacyModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.InputModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.LocalizationModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.PerformanceReportingModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.Physics2DModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.PhysicsModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ProfilerModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ScreenCaptureModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.SharedInternalsModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteMaskModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteShapeModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.StreamingModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.SubstanceModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.SubsystemsModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainPhysicsModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextCoreModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextRenderingModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.TilemapModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.TLSModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIElementsModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIElementsNativeModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UmbraModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UNETModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityAnalyticsModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityConnectModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityCurlModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityTestProtocolModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAssetBundleModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAudioModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestTextureModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestWWWModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.VehiclesModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.VFXModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.VideoModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.VirtualTexturingModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.VRModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.WindModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/Microsoft.Win32.Primitives.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/netstandard.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.AppContext.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Collections.Concurrent.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Collections.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Collections.NonGeneric.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Collections.Specialized.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.ComponentModel.Annotations.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.ComponentModel.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.ComponentModel.EventBasedAsync.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.ComponentModel.Primitives.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.ComponentModel.TypeConverter.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Console.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Data.Common.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Diagnostics.Contracts.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Diagnostics.Debug.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Diagnostics.FileVersionInfo.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Diagnostics.Process.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Diagnostics.StackTrace.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Diagnostics.TextWriterTraceListener.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Diagnostics.Tools.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Diagnostics.TraceSource.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Drawing.Primitives.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Dynamic.Runtime.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Globalization.Calendars.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Globalization.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Globalization.Extensions.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.IO.Compression.ZipFile.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.IO.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.IO.FileSystem.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.IO.FileSystem.DriveInfo.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.IO.FileSystem.Primitives.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.IO.FileSystem.Watcher.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.IO.IsolatedStorage.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.IO.MemoryMappedFiles.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.IO.Pipes.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.IO.UnmanagedMemoryStream.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Linq.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Linq.Expressions.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Linq.Parallel.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Linq.Queryable.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Net.Http.Rtc.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Net.NameResolution.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Net.NetworkInformation.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Net.Ping.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Net.Primitives.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Net.Requests.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Net.Security.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Net.Sockets.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Net.WebHeaderCollection.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Net.WebSockets.Client.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Net.WebSockets.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.ObjectModel.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Reflection.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Reflection.Emit.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Reflection.Emit.ILGeneration.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Reflection.Emit.Lightweight.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Reflection.Extensions.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Reflection.Primitives.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Resources.Reader.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Resources.ResourceManager.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Resources.Writer.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Runtime.CompilerServices.VisualC.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Runtime.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Runtime.Extensions.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Runtime.Handles.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Runtime.InteropServices.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Runtime.InteropServices.RuntimeInformation.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Runtime.InteropServices.WindowsRuntime.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Runtime.Numerics.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Runtime.Serialization.Formatters.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Runtime.Serialization.Json.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Runtime.Serialization.Primitives.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Runtime.Serialization.Xml.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Security.Claims.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Security.Cryptography.Algorithms.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Security.Cryptography.Csp.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Security.Cryptography.Encoding.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Security.Cryptography.Primitives.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Security.Cryptography.X509Certificates.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Security.Principal.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Security.SecureString.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.ServiceModel.Duplex.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.ServiceModel.Http.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.ServiceModel.NetTcp.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.ServiceModel.Primitives.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.ServiceModel.Security.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Text.Encoding.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Text.Encoding.Extensions.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Text.RegularExpressions.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Threading.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Threading.Overlapped.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Threading.Tasks.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Threading.Tasks.Parallel.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Threading.Thread.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Threading.ThreadPool.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Threading.Timer.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.ValueTuple.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Xml.ReaderWriter.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Xml.XDocument.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Xml.XmlDocument.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Xml.XmlSerializer.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Xml.XPath.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Xml.XPath.XDocument.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Microsoft.CSharp.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Core.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Data.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.IO.Compression.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Net.Http.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Numerics.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Numerics.Vectors.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Runtime.Serialization.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Xml.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Xml.Linq.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll\"\r\n-r:\"D:/_Games/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll\"\r\n-r:\"D:/_Games/_Gravity_Studio/DungeonRoguelike/Library/PackageCache/com.unity.cinemachine@2.7.9/Runtime/ThirdParty/clipper_library.dll\"\r\n-r:\"D:/_Games/_Gravity_Studio/DungeonRoguelike/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Cinemachine.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/com.unity.cinemachine.editor.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Sprite.Editor.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Tilemap.Editor.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Tilemap.Extras.Editor.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Tilemap.Extras.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.Mathematics.Editor.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.Mathematics.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipeline.Universal.ShaderLibrary.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Core.Editor.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Core.Runtime.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Core.ShaderLibrary.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Universal.Editor.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Universal.Runtime.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Universal.Shaders.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.Searcher.Editor.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.ShaderGraph.Editor.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.ref.dll\"\r\n-r:\"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll\"\r\n\"Assets/CourseAssets/Tilemap/CustomBrushScripts/CoordinateBrush/Editor/CoordinateBrush.cs\"\r\n\"Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs\"\r\n-langversion:8.0\r\n\r\n/deterministic\r\n/optimize+\r\n/debug:portable\r\n/nologo\r\n/RuntimeMetadataVersion:v4.0.30319\r\n\r\n/nowarn:0169\r\n/nowarn:0649\r\n/utf8output\r\n/preferreduilang:en-US\r\n",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.rsp"
@@ -16266,7 +16950,7 @@
       "ToUseDependencies": [],
       "OverwriteOutputs": true,
       "AllowUnwrittenOutputFiles": true,
-      "DebugActionIndex": 206
+      "DebugActionIndex": 217
     },
     {
       "Annotation": "Csc Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.dll (+2 others)",
@@ -16473,6 +17157,7 @@
         "D:/_Games/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll",
         "D:/_Games/_Gravity_Studio/DungeonRoguelike/Library/PackageCache/com.unity.cinemachine@2.7.9/Runtime/ThirdParty/clipper_library.dll",
         "D:/_Games/_Gravity_Studio/DungeonRoguelike/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll",
+        "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.ref.dll",
         "Library/Bee/artifacts/1900b0aE.dag/Cinemachine.ref.dll",
         "Library/Bee/artifacts/1900b0aE.dag/com.unity.cinemachine.editor.ref.dll",
         "Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Sprite.Editor.ref.dll",
@@ -16499,6 +17184,7 @@
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.ref.dll",
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll",
         "Assets/CourseAssets/Tilemap/CustomBrushScripts/CoordinateBrush/Editor/CoordinateBrush.cs",
+        "Assets/Scripts/NodeGraph/Editor/RoomNodeGraphEditor.cs",
         "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.rsp"
       ],
       "Outputs": [
@@ -16534,7 +17220,8 @@
         190,
         195,
         202,
-        206
+        207,
+        217
       ],
       "ToUseDependencies": [],
       "OverwriteOutputs": true,
@@ -16543,161 +17230,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "AllowedOutputSubstrings": [],
-      "DebugActionIndex": 207
-    },
-    {
-      "Annotation": "MovedFromExtractor Library/Bee/artifacts/movedfrom/Unity.2D.Sprite.Editor.ref.dll_15977261275114544680.movedfrom",
-      "Action": "\"D:\\_Games\\2021.1.7f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"D:/_Games/2021.1.7f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library\\Bee\\artifacts\\movedfrom\\Unity.2D.Sprite.Editor.ref.dll_15977261275114544680.movedfrom\" \"Library\\Bee\\artifacts\\1900b0aE.dag\\Unity.2D.Sprite.Editor.ref.dll\"",
-      "Inputs": [
-        "Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Sprite.Editor.ref.dll",
-        "D:/_Games/2021.1.7f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe"
-      ],
-      "Outputs": [
-        "Library/Bee/artifacts/movedfrom/Unity.2D.Sprite.Editor.ref.dll_15977261275114544680.movedfrom"
-      ],
-      "TargetDirectories": [],
-      "PassIndex": 0,
-      "ToBuildDependencies": [
-        105
-      ],
-      "ToUseDependencies": [],
-      "OverwriteOutputs": true,
-      "FrontendResponseFiles": [],
-      "AllowUnexpectedOutput": true,
-      "AllowedOutputSubstrings": [],
-      "DebugActionIndex": 208
-    },
-    {
-      "Annotation": "MovedFromExtractor Library/Bee/artifacts/movedfrom/Unity.2D.Tilemap.Extras.Editor.ref.dll_10205161182716544682.movedfrom",
-      "Action": "\"D:\\_Games\\2021.1.7f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"D:/_Games/2021.1.7f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library\\Bee\\artifacts\\movedfrom\\Unity.2D.Tilemap.Extras.Editor.ref.dll_10205161182716544682.movedfrom\" \"Library\\Bee\\artifacts\\1900b0aE.dag\\Unity.2D.Tilemap.Extras.Editor.ref.dll\"",
-      "Inputs": [
-        "Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Tilemap.Extras.Editor.ref.dll",
-        "D:/_Games/2021.1.7f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe"
-      ],
-      "Outputs": [
-        "Library/Bee/artifacts/movedfrom/Unity.2D.Tilemap.Extras.Editor.ref.dll_10205161182716544682.movedfrom"
-      ],
-      "TargetDirectories": [],
-      "PassIndex": 0,
-      "ToBuildDependencies": [
-        154
-      ],
-      "ToUseDependencies": [],
-      "OverwriteOutputs": true,
-      "FrontendResponseFiles": [],
-      "AllowUnexpectedOutput": true,
-      "AllowedOutputSubstrings": [],
-      "DebugActionIndex": 209
-    },
-    {
-      "Annotation": "MovedFromExtractor Library/Bee/artifacts/movedfrom/Unity.RenderPipelines.Core.ShaderLibrary.ref.dll_9163770854126867736.movedfrom",
-      "Action": "\"D:\\_Games\\2021.1.7f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"D:/_Games/2021.1.7f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library\\Bee\\artifacts\\movedfrom\\Unity.RenderPipelines.Core.ShaderLibrary.ref.dll_9163770854126867736.movedfrom\" \"Library\\Bee\\artifacts\\1900b0aE.dag\\Unity.RenderPipelines.Core.ShaderLibrary.ref.dll\"",
-      "Inputs": [
-        "Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Core.ShaderLibrary.ref.dll",
-        "D:/_Games/2021.1.7f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe"
-      ],
-      "Outputs": [
-        "Library/Bee/artifacts/movedfrom/Unity.RenderPipelines.Core.ShaderLibrary.ref.dll_9163770854126867736.movedfrom"
-      ],
-      "TargetDirectories": [],
-      "PassIndex": 0,
-      "ToBuildDependencies": [
-        126
-      ],
-      "ToUseDependencies": [],
-      "OverwriteOutputs": true,
-      "FrontendResponseFiles": [],
-      "AllowUnexpectedOutput": true,
-      "AllowedOutputSubstrings": [],
-      "DebugActionIndex": 210
-    },
-    {
-      "Annotation": "MovedFromExtractor Library/Bee/artifacts/movedfrom/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.ref.dll_1882649454426767128.movedfrom",
-      "Action": "\"D:\\_Games\\2021.1.7f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"D:/_Games/2021.1.7f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library\\Bee\\artifacts\\movedfrom\\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.ref.dll_1882649454426767128.movedfrom\" \"Library\\Bee\\artifacts\\1900b0aE.dag\\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.ref.dll\"",
-      "Inputs": [
-        "Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.ref.dll",
-        "D:/_Games/2021.1.7f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe"
-      ],
-      "Outputs": [
-        "Library/Bee/artifacts/movedfrom/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.ref.dll_1882649454426767128.movedfrom"
-      ],
-      "TargetDirectories": [],
-      "PassIndex": 0,
-      "ToBuildDependencies": [
-        130
-      ],
-      "ToUseDependencies": [],
-      "OverwriteOutputs": true,
-      "FrontendResponseFiles": [],
-      "AllowUnexpectedOutput": true,
-      "AllowedOutputSubstrings": [],
-      "DebugActionIndex": 211
-    },
-    {
-      "Annotation": "MovedFromExtractor Library/Bee/artifacts/movedfrom/Unity.RenderPipelines.Universal.Shaders.ref.dll_10693991190924822304.movedfrom",
-      "Action": "\"D:\\_Games\\2021.1.7f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"D:/_Games/2021.1.7f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library\\Bee\\artifacts\\movedfrom\\Unity.RenderPipelines.Universal.Shaders.ref.dll_10693991190924822304.movedfrom\" \"Library\\Bee\\artifacts\\1900b0aE.dag\\Unity.RenderPipelines.Universal.Shaders.ref.dll\"",
-      "Inputs": [
-        "Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Universal.Shaders.ref.dll",
-        "D:/_Games/2021.1.7f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe"
-      ],
-      "Outputs": [
-        "Library/Bee/artifacts/movedfrom/Unity.RenderPipelines.Universal.Shaders.ref.dll_10693991190924822304.movedfrom"
-      ],
-      "TargetDirectories": [],
-      "PassIndex": 0,
-      "ToBuildDependencies": [
-        134
-      ],
-      "ToUseDependencies": [],
-      "OverwriteOutputs": true,
-      "FrontendResponseFiles": [],
-      "AllowUnexpectedOutput": true,
-      "AllowedOutputSubstrings": [],
-      "DebugActionIndex": 212
-    },
-    {
-      "Annotation": "MovedFromExtractor Library/Bee/artifacts/movedfrom/Unity.TextMeshPro.Editor.ref.dll_1557689244747631494.movedfrom",
-      "Action": "\"D:\\_Games\\2021.1.7f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"D:/_Games/2021.1.7f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library\\Bee\\artifacts\\movedfrom\\Unity.TextMeshPro.Editor.ref.dll_1557689244747631494.movedfrom\" \"Library\\Bee\\artifacts\\1900b0aE.dag\\Unity.TextMeshPro.Editor.ref.dll\"",
-      "Inputs": [
-        "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.ref.dll",
-        "D:/_Games/2021.1.7f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe"
-      ],
-      "Outputs": [
-        "Library/Bee/artifacts/movedfrom/Unity.TextMeshPro.Editor.ref.dll_1557689244747631494.movedfrom"
-      ],
-      "TargetDirectories": [],
-      "PassIndex": 0,
-      "ToBuildDependencies": [
-        180
-      ],
-      "ToUseDependencies": [],
-      "OverwriteOutputs": true,
-      "FrontendResponseFiles": [],
-      "AllowUnexpectedOutput": true,
-      "AllowedOutputSubstrings": [],
-      "DebugActionIndex": 213
-    },
-    {
-      "Annotation": "MovedFromExtractor Library/Bee/artifacts/movedfrom/Unity.VisualStudio.Editor.ref.dll_4221946230532187309.movedfrom",
-      "Action": "\"D:\\_Games\\2021.1.7f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"D:/_Games/2021.1.7f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library\\Bee\\artifacts\\movedfrom\\Unity.VisualStudio.Editor.ref.dll_4221946230532187309.movedfrom\" \"Library\\Bee\\artifacts\\1900b0aE.dag\\Unity.VisualStudio.Editor.ref.dll\"",
-      "Inputs": [
-        "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.ref.dll",
-        "D:/_Games/2021.1.7f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe"
-      ],
-      "Outputs": [
-        "Library/Bee/artifacts/movedfrom/Unity.VisualStudio.Editor.ref.dll_4221946230532187309.movedfrom"
-      ],
-      "TargetDirectories": [],
-      "PassIndex": 0,
-      "ToBuildDependencies": [
-        150
-      ],
-      "ToUseDependencies": [],
-      "OverwriteOutputs": true,
-      "FrontendResponseFiles": [],
-      "AllowUnexpectedOutput": true,
-      "AllowedOutputSubstrings": [],
-      "DebugActionIndex": 214
+      "DebugActionIndex": 218
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.dll.movedfrom.rsp",
@@ -16711,7 +17244,7 @@
       "ToUseDependencies": [],
       "OverwriteOutputs": true,
       "AllowUnwrittenOutputFiles": true,
-      "DebugActionIndex": 215
+      "DebugActionIndex": 219
     },
     {
       "Annotation": "MovedFromExtractorCombine Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.dll.movedfrom",
@@ -16938,14 +17471,14 @@
         212,
         213,
         214,
-        215
+        219
       ],
       "ToUseDependencies": [],
       "OverwriteOutputs": true,
       "FrontendResponseFiles": [],
       "AllowUnexpectedOutput": true,
       "AllowedOutputSubstrings": [],
-      "DebugActionIndex": 216
+      "DebugActionIndex": 220
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/UnityEngine.TestRunner.dll",
@@ -16968,7 +17501,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 217
+      "DebugActionIndex": 221
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/UnityEngine.TestRunner.pdb",
@@ -16991,7 +17524,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 218
+      "DebugActionIndex": 222
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/UnityEngine.UI.dll",
@@ -17014,7 +17547,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 219
+      "DebugActionIndex": 223
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/UnityEngine.UI.pdb",
@@ -17037,7 +17570,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 220
+      "DebugActionIndex": 224
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/UnityEditor.TestRunner.dll",
@@ -17060,7 +17593,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 221
+      "DebugActionIndex": 225
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/UnityEditor.TestRunner.pdb",
@@ -17083,7 +17616,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 222
+      "DebugActionIndex": 226
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/UnityEditor.UI.dll",
@@ -17106,7 +17639,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 223
+      "DebugActionIndex": 227
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/UnityEditor.UI.pdb",
@@ -17129,7 +17662,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 224
+      "DebugActionIndex": 228
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll",
@@ -17152,7 +17685,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 225
+      "DebugActionIndex": 229
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.2D.Sprite.Editor.pdb",
@@ -17175,7 +17708,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 226
+      "DebugActionIndex": 230
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll",
@@ -17198,7 +17731,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 227
+      "DebugActionIndex": 231
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.pdb",
@@ -17221,7 +17754,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 228
+      "DebugActionIndex": 232
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.2D.Tilemap.Extras.dll",
@@ -17244,7 +17777,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 229
+      "DebugActionIndex": 233
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.2D.Tilemap.Extras.pdb",
@@ -17267,7 +17800,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 230
+      "DebugActionIndex": 234
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.Mathematics.dll",
@@ -17290,7 +17823,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 231
+      "DebugActionIndex": 235
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.Mathematics.pdb",
@@ -17313,7 +17846,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 232
+      "DebugActionIndex": 236
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll",
@@ -17336,7 +17869,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 233
+      "DebugActionIndex": 237
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.pdb",
@@ -17359,7 +17892,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 234
+      "DebugActionIndex": 238
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll",
@@ -17382,7 +17915,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 235
+      "DebugActionIndex": 239
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.pdb",
@@ -17405,7 +17938,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 236
+      "DebugActionIndex": 240
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
@@ -17428,7 +17961,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 237
+      "DebugActionIndex": 241
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.pdb",
@@ -17451,7 +17984,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 238
+      "DebugActionIndex": 242
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll",
@@ -17474,7 +18007,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 239
+      "DebugActionIndex": 243
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.pdb",
@@ -17497,7 +18030,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 240
+      "DebugActionIndex": 244
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.Searcher.Editor.dll",
@@ -17520,7 +18053,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 241
+      "DebugActionIndex": 245
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.Searcher.Editor.pdb",
@@ -17543,7 +18076,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 242
+      "DebugActionIndex": 246
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.ShaderGraph.Utilities.dll",
@@ -17566,7 +18099,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 243
+      "DebugActionIndex": 247
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.ShaderGraph.Utilities.pdb",
@@ -17589,7 +18122,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 244
+      "DebugActionIndex": 248
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.TextMeshPro.dll",
@@ -17612,7 +18145,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 245
+      "DebugActionIndex": 249
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.TextMeshPro.pdb",
@@ -17635,7 +18168,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 246
+      "DebugActionIndex": 250
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll",
@@ -17658,7 +18191,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 247
+      "DebugActionIndex": 251
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.VisualStudio.Editor.pdb",
@@ -17681,7 +18214,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 248
+      "DebugActionIndex": 252
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.2D.Tilemap.Extras.Editor.dll",
@@ -17704,7 +18237,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 249
+      "DebugActionIndex": 253
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.2D.Tilemap.Extras.Editor.pdb",
@@ -17727,7 +18260,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 250
+      "DebugActionIndex": 254
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.Mathematics.Editor.dll",
@@ -17750,7 +18283,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 251
+      "DebugActionIndex": 255
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.Mathematics.Editor.pdb",
@@ -17773,7 +18306,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 252
+      "DebugActionIndex": 256
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll",
@@ -17796,7 +18329,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 253
+      "DebugActionIndex": 257
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.pdb",
@@ -17819,7 +18352,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 254
+      "DebugActionIndex": 258
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll",
@@ -17842,7 +18375,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 255
+      "DebugActionIndex": 259
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.pdb",
@@ -17865,7 +18398,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 256
+      "DebugActionIndex": 260
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll",
@@ -17888,7 +18421,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 257
+      "DebugActionIndex": 261
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.ShaderGraph.Editor.pdb",
@@ -17911,7 +18444,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 258
+      "DebugActionIndex": 262
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll",
@@ -17934,7 +18467,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 259
+      "DebugActionIndex": 263
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb",
@@ -17957,7 +18490,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 260
+      "DebugActionIndex": 264
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll",
@@ -17980,7 +18513,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 261
+      "DebugActionIndex": 265
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.pdb",
@@ -18003,7 +18536,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 262
+      "DebugActionIndex": 266
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Cinemachine.dll",
@@ -18026,7 +18559,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 263
+      "DebugActionIndex": 267
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Cinemachine.pdb",
@@ -18049,7 +18582,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 264
+      "DebugActionIndex": 268
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll",
@@ -18072,7 +18605,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 265
+      "DebugActionIndex": 269
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.pdb",
@@ -18095,7 +18628,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 266
+      "DebugActionIndex": 270
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/com.unity.cinemachine.editor.dll",
@@ -18118,7 +18651,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 267
+      "DebugActionIndex": 271
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/com.unity.cinemachine.editor.pdb",
@@ -18141,7 +18674,53 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 268
+      "DebugActionIndex": 272
+    },
+    {
+      "Annotation": "CopyTool Library/ScriptAssemblies/Assembly-CSharp.dll",
+      "Action": "copy \"Library\\Bee\\artifacts\\1900b0aE.dag\\Assembly-CSharp.dll\" \"Library\\ScriptAssemblies\\Assembly-CSharp.dll\" && copy /b \"Library\\ScriptAssemblies\\Assembly-CSharp.dll\" +,, \"Library\\ScriptAssemblies\\Assembly-CSharp.dll\" ",
+      "Inputs": [
+        "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll"
+      ],
+      "Outputs": [
+        "Library/ScriptAssemblies/Assembly-CSharp.dll"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [
+        207
+      ],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [
+        ".*"
+      ],
+      "DebugActionIndex": 273
+    },
+    {
+      "Annotation": "CopyTool Library/ScriptAssemblies/Assembly-CSharp.pdb",
+      "Action": "copy \"Library\\Bee\\artifacts\\1900b0aE.dag\\Assembly-CSharp.pdb\" \"Library\\ScriptAssemblies\\Assembly-CSharp.pdb\" && copy /b \"Library\\ScriptAssemblies\\Assembly-CSharp.pdb\" +,, \"Library\\ScriptAssemblies\\Assembly-CSharp.pdb\" ",
+      "Inputs": [
+        "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.pdb"
+      ],
+      "Outputs": [
+        "Library/ScriptAssemblies/Assembly-CSharp.pdb"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [
+        207
+      ],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [
+        ".*"
+      ],
+      "DebugActionIndex": 274
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Assembly-CSharp-Editor.dll",
@@ -18155,7 +18734,7 @@
       "TargetDirectories": [],
       "PassIndex": 0,
       "ToBuildDependencies": [
-        207
+        218
       ],
       "ToUseDependencies": [],
       "OverwriteOutputs": true,
@@ -18164,7 +18743,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 269
+      "DebugActionIndex": 275
     },
     {
       "Annotation": "CopyTool Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb",
@@ -18178,7 +18757,7 @@
       "TargetDirectories": [],
       "PassIndex": 0,
       "ToBuildDependencies": [
-        207
+        218
       ],
       "ToUseDependencies": [],
       "OverwriteOutputs": true,
@@ -18187,7 +18766,7 @@
       "AllowedOutputSubstrings": [
         ".*"
       ],
-      "DebugActionIndex": 270
+      "DebugActionIndex": 276
     }
   ],
   "FileSignatures": [
