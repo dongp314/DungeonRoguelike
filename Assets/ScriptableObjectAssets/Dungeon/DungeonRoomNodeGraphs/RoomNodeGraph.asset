@@ -33,16 +33,16 @@ MonoBehaviour:
   parentRoomNodeIDList: []
   childRoomNodeIDList: []
   roomNodeGraph: {fileID: 11400000}
-  roomNodeType: {fileID: 11400000, guid: ae5c850e2ac523342b0ef7fceb17c2d6, type: 2}
+  roomNodeType: {fileID: 11400000, guid: 8cf214397f7a9fb4aa77eb89eb7942a6, type: 2}
   roomNodeTypeList: {fileID: 11400000, guid: 623ab3f417e3cf247b92a92be1c8d0cc, type: 2}
   rect:
     serializedVersion: 2
-    x: 314
-    y: 289
+    x: 540
+    y: 146
     width: 160
     height: 75
   isLeftClickDragging: 0
-  isSelected: 0
+  isSelected: 1
 --- !u!114 &1241905680584610522
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -63,8 +63,8 @@ MonoBehaviour:
   roomNodeTypeList: {fileID: 11400000, guid: 623ab3f417e3cf247b92a92be1c8d0cc, type: 2}
   rect:
     serializedVersion: 2
-    x: 355
-    y: 142
+    x: 309
+    y: 146
     width: 160
     height: 75
   isLeftClickDragging: 0
@@ -94,4 +94,4 @@ MonoBehaviour:
     width: 160
     height: 75
   isLeftClickDragging: 0
-  isSelected: 0
+  isSelected: 1
