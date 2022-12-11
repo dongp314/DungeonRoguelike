@@ -53,12 +53,13 @@
     <UnityVersion>2021.1.7f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\NodeGraph\RoomNodeGraphSO.cs" />
     <Compile Include="Assets\Scripts\NodeGraph\RoomNodeSO.cs" />
     <Compile Include="Assets\Scripts\NodeGraph\RoomNodeTypeListSO.cs" />
-    <Compile Include="Assets\Scripts\NodeGraph\RoomNodeTypeSO.cs" />
     <Compile Include="Assets\Scripts\Utilities\HelperUtilities.cs" />
+    <Compile Include="Assets\Scripts\Misc\Settings.cs" />
     <Compile Include="Assets\Scripts\GameManager\GameResources.cs" />
+    <Compile Include="Assets\Scripts\NodeGraph\RoomNodeTypeSO.cs" />
+    <Compile Include="Assets\Scripts\NodeGraph\RoomNodeGraphSO.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

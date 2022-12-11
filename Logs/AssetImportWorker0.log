@@ -15,11 +15,11 @@ D:/_Games/_Gravity_Studio/DungeonRoguelike
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-59746
+65293
 Successfully changed project path to: D:/_Games/_Gravity_Studio/DungeonRoguelike
 D:/_Games/_Gravity_Studio/DungeonRoguelike
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 93.64 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 114.36 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.7f1 (d91830b65d9b)
 [Subsystems] Discovering subsystems at path D:/_Games/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
@@ -36,324 +36,1631 @@ Initialize mono
 Mono path[0] = 'D:/_Games/2021.1.7f1/Editor/Data/Managed'
 Mono path[1] = 'D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/_Games/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56236
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56288
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/_Games/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001199 seconds.
+Registered in 0.001665 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 84.67 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 106.47 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.159 seconds
+- Completed reload, in  1.387 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001353 seconds.
+Registered in 0.001975 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 93.39 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 109.23 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.092 seconds
+- Completed reload, in  1.299 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 1.00 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2215 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 115.0 MB.
+Unloading 2216 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 115.1 MB.
 System memory in use after: 115.1 MB.
 
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2670.
-Total: 2.644500 ms (FindLiveObjects: 0.146800 ms CreateObjectMapping: 0.072000 ms MarkObjects: 2.247200 ms  DeleteObjects: 0.177800 ms)
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2671.
+Total: 2.953900 ms (FindLiveObjects: 0.277400 ms CreateObjectMapping: 0.115200 ms MarkObjects: 2.428800 ms  DeleteObjects: 0.131200 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Prefabs/GameResources/Resources/GameResources.prefab
-  artifactKey: Guid(eba097b732007df4db29c6be06317b49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/GameResources/Resources/GameResources.prefab using Guid(eba097b732007df4db29c6be06317b49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '377ea1c9e6fe3a4ee2e68f6f8244e599') in 0.053799 seconds 
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_1.asset
+  artifactKey: Guid(142e95cb207cdc14286f7221f6edeb38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_1.asset using Guid(142e95cb207cdc14286f7221f6edeb38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a22524e0cdb6b7b905112b34ee7331a') in 0.067999 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 174.336850 seconds.
-  path: Assets/ScriptableObjectAssets
-  artifactKey: Guid(7ef9043ae1fc8ef4c94cd0987149b55c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets using Guid(7ef9043ae1fc8ef4c94cd0987149b55c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdd298300d6aa5ee336dd1a0a3f0e97e') in 0.009602 seconds 
+  Time since last request: 50.363392 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset
+  artifactKey: Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset using Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2fc0174e0a8039a3a0220da18f3154b') in 0.007611 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 13.090816 seconds.
-  path: Assets/ScriptableObjectAssets/Dungeon
-  artifactKey: Guid(74ce4bc54f9205444807cd467dad736b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Dungeon using Guid(74ce4bc54f9205444807cd467dad736b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26f898709b59fd8022defe1505e7553e') in 0.007432 seconds 
+  Time since last request: 4.889535 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset
+  artifactKey: Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset using Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ce6447902a95a4751455d54772f2818') in 0.004574 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 16.665830 seconds.
-  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes
-  artifactKey: Guid(bf7234e2778af354ead04e411b5457b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes using Guid(bf7234e2778af354ead04e411b5457b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f531e2c9edc7a771ab0b9cfcf1ed2f1b') in 0.008539 seconds 
+  Time since last request: 6.650343 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset
+  artifactKey: Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset using Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '342d9655f53d207319b8bc62c6b682d7') in 0.005332 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 27.869166 seconds.
-  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeTypeListSO.asset
-  artifactKey: Guid(623ab3f417e3cf247b92a92be1c8d0cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeTypeListSO.asset using Guid(623ab3f417e3cf247b92a92be1c8d0cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) list has no values in object RoomNodeTypeListSO
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:Log (object)
-HelperUtilities:ValidateCheckEnumerableValues (UnityEngine.Object,string,System.Collections.IEnumerable) (at Assets/Scripts/Utilities/HelperUtilities.cs:44)
-RoomNodeTypeListSO:OnValidate () (at Assets/Scripts/NodeGraph/RoomNodeTypeListSO.cs:21)
-
-(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 44)
-
- -> (artifact id: 'f51180a17ffa7324d73fa2306dd836b0') in 0.012360 seconds 
+  Time since last request: 2.242366 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset
+  artifactKey: Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset using Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6630c21d276a50ce0497390fa5c09a3a') in 0.004175 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 61.463268 seconds.
-  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_.asset
-  artifactKey: Guid(cd2b9c2614c9dab4e8823d05366dfa63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_.asset using Guid(cd2b9c2614c9dab4e8823d05366dfa63) Importer(815301076,1909f56bfc062723c751e8b465ee728b) roomNodeTypeName is empty and must contain a value in object RoomNodeType_
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:Log (object)
-HelperUtilities:ValidateCheckEmptyString (UnityEngine.Object,string,string) (at Assets/Scripts/Utilities/HelperUtilities.cs:14)
-RoomNodeTypeSO:OnValidate () (at Assets/Scripts/NodeGraph/RoomNodeTypeSO.cs:43)
-
-(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 14)
-
- -> (artifact id: 'e64c25dbbc8bca0f7dc1a5be48d6376d') in 0.008095 seconds 
+  Time since last request: 1.896860 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset
+  artifactKey: Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset using Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a73e3be9915785b7a23fba83f40bcc0') in 0.005014 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 29.962565 seconds.
-  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_BossRoom.asset
-  artifactKey: Guid(cd2b9c2614c9dab4e8823d05366dfa63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_BossRoom.asset using Guid(cd2b9c2614c9dab4e8823d05366dfa63) Importer(815301076,1909f56bfc062723c751e8b465ee728b) roomNodeTypeName is empty and must contain a value in object RoomNodeType_BossRoom
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:Log (object)
-HelperUtilities:ValidateCheckEmptyString (UnityEngine.Object,string,string) (at Assets/Scripts/Utilities/HelperUtilities.cs:14)
-RoomNodeTypeSO:OnValidate () (at Assets/Scripts/NodeGraph/RoomNodeTypeSO.cs:43)
-
-(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 14)
-
- -> (artifact id: 'df206c923872babcfc8d7710ad5f26a7') in 0.008279 seconds 
+  Time since last request: 2.414487 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset
+  artifactKey: Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset using Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a5cacb76eefeb1e25eaa670262c55ac') in 0.004921 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 105.111730 seconds.
-  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_ChestRoom.asset
-  artifactKey: Guid(535e21cbb7b0458498a2ebd352bbf0ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_ChestRoom.asset using Guid(535e21cbb7b0458498a2ebd352bbf0ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) roomNodeTypeName is empty and must contain a value in object RoomNodeType_ChestRoom
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:Log (object)
-HelperUtilities:ValidateCheckEmptyString (UnityEngine.Object,string,string) (at Assets/Scripts/Utilities/HelperUtilities.cs:14)
-RoomNodeTypeSO:OnValidate () (at Assets/Scripts/NodeGraph/RoomNodeTypeSO.cs:43)
-
-(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 14)
-
- -> (artifact id: '551b8743101f3dfc1f2de7d4a2aeeca0') in 0.008729 seconds 
+  Time since last request: 2.245790 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset
+  artifactKey: Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset using Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94c05e9d8ced5103caf0cc122fe4a49e') in 0.005280 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 21.191191 seconds.
-  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_ChestRoom 1.asset
-  artifactKey: Guid(7df9c173290e5ac499aeffd261cc8789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_ChestRoom 1.asset using Guid(7df9c173290e5ac499aeffd261cc8789) Importer(815301076,1909f56bfc062723c751e8b465ee728b) roomNodeTypeName is empty and must contain a value in object RoomNodeType_ChestRoom
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:Log (object)
-HelperUtilities:ValidateCheckEmptyString (UnityEngine.Object,string,string) (at Assets/Scripts/Utilities/HelperUtilities.cs:14)
-RoomNodeTypeSO:OnValidate () (at Assets/Scripts/NodeGraph/RoomNodeTypeSO.cs:43)
-
-(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 14)
-
- -> (artifact id: 'c69cb5aec92c4f268e6bb91703158e0b') in 0.007759 seconds 
+  Time since last request: 28.245041 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset
+  artifactKey: Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset using Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3a4d143bab10e80bdc76726898218aa') in 0.004663 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 9.340965 seconds.
-  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_Corridor.asset
-  artifactKey: Guid(7df9c173290e5ac499aeffd261cc8789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_Corridor.asset using Guid(7df9c173290e5ac499aeffd261cc8789) Importer(815301076,1909f56bfc062723c751e8b465ee728b) roomNodeTypeName is empty and must contain a value in object RoomNodeType_Corridor
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:Log (object)
-HelperUtilities:ValidateCheckEmptyString (UnityEngine.Object,string,string) (at Assets/Scripts/Utilities/HelperUtilities.cs:14)
-RoomNodeTypeSO:OnValidate () (at Assets/Scripts/NodeGraph/RoomNodeTypeSO.cs:43)
-
-(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 14)
-
- -> (artifact id: '503b8a856a6e92d9ba1bf34a43f97132') in 0.008606 seconds 
+  Time since last request: 13.157656 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset
+  artifactKey: Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset using Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74a4a96f7dcfb9018aa7a17c00025245') in 0.005680 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 59.767531 seconds.
-  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_Corridor 1.asset
-  artifactKey: Guid(27eebe9ebed9ca44cab444a9446c6faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_Corridor 1.asset using Guid(27eebe9ebed9ca44cab444a9446c6faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) roomNodeTypeName is empty and must contain a value in object RoomNodeType_Corridor
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:Log (object)
-HelperUtilities:ValidateCheckEmptyString (UnityEngine.Object,string,string) (at Assets/Scripts/Utilities/HelperUtilities.cs:14)
-RoomNodeTypeSO:OnValidate () (at Assets/Scripts/NodeGraph/RoomNodeTypeSO.cs:43)
-
-(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 14)
-
- -> (artifact id: '94c54656dd8c8ebb45c96cce12fdc103') in 0.008258 seconds 
+  Time since last request: 7.160381 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset
+  artifactKey: Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset using Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e9d881bc0c42655819081952f949eb7') in 0.005336 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 11.315179 seconds.
-  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_CorridorEW.asset
-  artifactKey: Guid(27eebe9ebed9ca44cab444a9446c6faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_CorridorEW.asset using Guid(27eebe9ebed9ca44cab444a9446c6faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) roomNodeTypeName is empty and must contain a value in object RoomNodeType_CorridorEW
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:Log (object)
-HelperUtilities:ValidateCheckEmptyString (UnityEngine.Object,string,string) (at Assets/Scripts/Utilities/HelperUtilities.cs:14)
-RoomNodeTypeSO:OnValidate () (at Assets/Scripts/NodeGraph/RoomNodeTypeSO.cs:43)
-
-(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 14)
-
- -> (artifact id: '80c99f793275566850b070b6eb124587') in 0.008211 seconds 
+  Time since last request: 4.767380 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset
+  artifactKey: Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset using Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81568f2e9415a0b561c0573958fa56e7') in 0.005863 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 15.087966 seconds.
-  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_Corridor.asset
-  artifactKey: Guid(7df9c173290e5ac499aeffd261cc8789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_Corridor.asset using Guid(7df9c173290e5ac499aeffd261cc8789) Importer(815301076,1909f56bfc062723c751e8b465ee728b) roomNodeTypeName is empty and must contain a value in object RoomNodeType_Corridor
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:Log (object)
-HelperUtilities:ValidateCheckEmptyString (UnityEngine.Object,string,string) (at Assets/Scripts/Utilities/HelperUtilities.cs:14)
-RoomNodeTypeSO:OnValidate () (at Assets/Scripts/NodeGraph/RoomNodeTypeSO.cs:43)
-
-(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 14)
-
- -> (artifact id: 'fd37c5b2342fc4c5cc37b25dfcfae652') in 0.003231 seconds 
+  Time since last request: 5.349859 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset
+  artifactKey: Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset using Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9de568a415c83595a0947f54002a8571') in 0.005870 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 44.162568 seconds.
-  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_CorridorEW 1.asset
-  artifactKey: Guid(d339b59a4e2d3f74bb70adb6ed0812d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_CorridorEW 1.asset using Guid(d339b59a4e2d3f74bb70adb6ed0812d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6df3e49d78e7d09618fd41a67f6b4495') in 0.007603 seconds 
+  Time since last request: 3.625193 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset
+  artifactKey: Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset using Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e883ba54413a1ef354e47167bed45f0f') in 0.006215 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 8.221655 seconds.
-  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_CorridorNS.asset
-  artifactKey: Guid(d339b59a4e2d3f74bb70adb6ed0812d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_CorridorNS.asset using Guid(d339b59a4e2d3f74bb70adb6ed0812d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c0208a2ab583534f8ac37ad54a46477') in 0.006818 seconds 
+  Time since last request: 12.965610 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset
+  artifactKey: Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset using Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ce892064a6f4ee68db42a9327029219') in 0.005451 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 6.696496 seconds.
-  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_CorridorEW.asset
-  artifactKey: Guid(27eebe9ebed9ca44cab444a9446c6faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_CorridorEW.asset using Guid(27eebe9ebed9ca44cab444a9446c6faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1eed06686daeb379aced3edf1e764652') in 0.002957 seconds 
+  Time since last request: 5.463289 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset
+  artifactKey: Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset using Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '427d2ed0b0e97edfc90a46bb7dec9ee1') in 0.006952 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 7.576791 seconds.
-  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_CorridorNS 1.asset
-  artifactKey: Guid(eae9ce384b18c8e4fac6f7c818ad376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_CorridorNS 1.asset using Guid(eae9ce384b18c8e4fac6f7c818ad376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43c88fd4471b7ccdc023e45a198a100d') in 0.008690 seconds 
+  Time since last request: 8.470377 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset
+  artifactKey: Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset using Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52480f56070b203d74f81db5960ecc97') in 0.006550 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 12.753529 seconds.
-  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_Entrance.asset
-  artifactKey: Guid(eae9ce384b18c8e4fac6f7c818ad376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_Entrance.asset using Guid(eae9ce384b18c8e4fac6f7c818ad376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e547740eefff10ae90d03b6d0a904e9f') in 0.008113 seconds 
+  Time since last request: 5.105036 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset
+  artifactKey: Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset using Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37e7e51064bacec75b4072902fcc2e30') in 0.008181 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 22.782135 seconds.
-  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_Entrance 1.asset
-  artifactKey: Guid(8cf214397f7a9fb4aa77eb89eb7942a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_Entrance 1.asset using Guid(8cf214397f7a9fb4aa77eb89eb7942a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e512b2842be35a7fa0eba9a4fc15d9e') in 0.009529 seconds 
+  Time since last request: 7.236992 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset
+  artifactKey: Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset using Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b48347ccf5085739986de6f31d73385f') in 0.006344 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 21.163100 seconds.
-  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_LargeRoom.asset
-  artifactKey: Guid(8cf214397f7a9fb4aa77eb89eb7942a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_LargeRoom.asset using Guid(8cf214397f7a9fb4aa77eb89eb7942a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89c6220b2661210a733b7561a40fad1a') in 0.006193 seconds 
+  Time since last request: 2.755847 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset
+  artifactKey: Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset using Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0389f985a547d829fa2e2aacc1e4c3f') in 0.006969 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 42.152426 seconds.
-  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_LargeRoom 1.asset
-  artifactKey: Guid(fbb1b4a71b5d1344c9fee89700bf8187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_LargeRoom 1.asset using Guid(fbb1b4a71b5d1344c9fee89700bf8187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f0712350ba75f1c751a19d5154b4111') in 0.007565 seconds 
+  Time since last request: 11.552004 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset
+  artifactKey: Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset using Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5afce579d9e9c73a2478efeea7e46ed0') in 0.006146 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 15.226495 seconds.
-  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_MedeumRoom.asset
-  artifactKey: Guid(fbb1b4a71b5d1344c9fee89700bf8187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_MedeumRoom.asset using Guid(fbb1b4a71b5d1344c9fee89700bf8187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7bcd153a043e83b2303449162ab7fa2') in 0.007423 seconds 
+  Time since last request: 3.633179 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset
+  artifactKey: Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset using Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32ecc643a1407e7b0ec5f6c2c8dee882') in 0.008826 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 7.318572 seconds.
-  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_MediumRoom.asset
-  artifactKey: Guid(fbb1b4a71b5d1344c9fee89700bf8187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_MediumRoom.asset using Guid(fbb1b4a71b5d1344c9fee89700bf8187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad36221c4e68034fb18b6fc522ecf75b') in 0.009391 seconds 
+  Time since last request: 3.434349 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset
+  artifactKey: Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset using Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79f1b41e1c1294390ad11ec8d47956a3') in 0.007233 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 10.044935 seconds.
-  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_MediumRoom 1.asset
-  artifactKey: Guid(40654dea14b153943b6fba74608bbbff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_MediumRoom 1.asset using Guid(40654dea14b153943b6fba74608bbbff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34a0c4ef33c8053cca0f92bcedb09447') in 0.008210 seconds 
+  Time since last request: 2.531936 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset
+  artifactKey: Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset using Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b4bd55f5784e5d760b6a26a43fa08e0') in 0.006837 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 7.697466 seconds.
-  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_SmallRoom.asset
-  artifactKey: Guid(40654dea14b153943b6fba74608bbbff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_SmallRoom.asset using Guid(40654dea14b153943b6fba74608bbbff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b8bd8fd7754da7dc3d420d5610bb0bf') in 0.007571 seconds 
+  Time since last request: 15.988613 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset
+  artifactKey: Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset using Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b301aa956caa4c62c8ade3a6e574902e') in 0.007533 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 26.978399 seconds.
-  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_SmallRoom 1.asset
-  artifactKey: Guid(ae5c850e2ac523342b0ef7fceb17c2d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_SmallRoom 1.asset using Guid(ae5c850e2ac523342b0ef7fceb17c2d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fbe35b031d8bbb490dd6380e368b630') in 0.008216 seconds 
+  Time since last request: 2.023384 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset
+  artifactKey: Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset using Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58dc07ea90973dacec419f4be011164a') in 0.007394 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 13.564141 seconds.
-  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_None.asset
-  artifactKey: Guid(ae5c850e2ac523342b0ef7fceb17c2d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeTypes/RoomNodeType_None.asset using Guid(ae5c850e2ac523342b0ef7fceb17c2d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5893fc80a995ce2a390beead4dcd2b0a') in 0.007152 seconds 
+  Time since last request: 1.826990 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset
+  artifactKey: Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset using Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a348268fb0dd8ed11476fb20eb259175') in 0.009878 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 151.633692 seconds.
-  path: Assets/Prefabs/GameResources/Resources/GameResources.prefab
-  artifactKey: Guid(eba097b732007df4db29c6be06317b49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/GameResources/Resources/GameResources.prefab using Guid(eba097b732007df4db29c6be06317b49) Importer(815301076,1909f56bfc062723c751e8b465ee728b) list has no values in object RoomNodeTypeListSO
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:Log (object)
-HelperUtilities:ValidateCheckEnumerableValues (UnityEngine.Object,string,System.Collections.IEnumerable) (at Assets/Scripts/Utilities/HelperUtilities.cs:44)
-RoomNodeTypeListSO:OnValidate () (at Assets/Scripts/NodeGraph/RoomNodeTypeListSO.cs:21)
-
-(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 44)
-
- -> (artifact id: 'ece53734044158ffe61ce718ae1bffa1') in 0.004607 seconds 
+  Time since last request: 1.850399 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset
+  artifactKey: Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_2.asset using Guid(51b22606ba9cf11449da42ce85a33e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03772cbdcf2ee939d3012e5cde31efce') in 0.008455 seconds 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001636 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.936 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.85 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2103 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 108.0 MB.
-System memory in use after: 108.1 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2672.
-Total: 2.796000 ms (FindLiveObjects: 0.185000 ms CreateObjectMapping: 0.071200 ms MarkObjects: 2.450800 ms  DeleteObjects: 0.087300 ms)
-
+Received Import Request.
+  Time since last request: 43.807620 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset
+  artifactKey: Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset using Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1eb728f73b4bfcd986aa93f748b9ea92') in 0.008506 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 25.201338 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset
+  artifactKey: Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset using Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b94764deb4fc2cbcd105b122f9de75fa') in 0.004842 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.055917 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset
+  artifactKey: Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset using Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78fd955d0993f98206d27f5176249953') in 0.004258 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.739815 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset
+  artifactKey: Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset using Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a22cf36c20cd4d78e81f027774040e9') in 0.006183 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.695151 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset
+  artifactKey: Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset using Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cd1371ce3d29404f62dc7806bf33ec6') in 0.004802 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.605866 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset
+  artifactKey: Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset using Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd33761118069b04f790c6108dc93d018') in 0.005232 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.391466 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset
+  artifactKey: Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset using Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7741c80abc9352c49d90caccf3768177') in 0.005107 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.284380 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset
+  artifactKey: Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset using Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdb14da5403c8d898ede057d94f26941') in 0.005624 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.908280 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset
+  artifactKey: Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset using Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '986edc8b0e923661b65c81d051cd865b') in 0.005502 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.019761 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset
+  artifactKey: Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset using Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b17da2f1121e1f7bdb7e94b5c3425f4f') in 0.006127 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.072097 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset
+  artifactKey: Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset using Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bd222b585bd268a4912c17a4d2a6f18') in 0.005459 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.522418 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset
+  artifactKey: Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset using Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '990cd74a80692bfc40a22aa40d4a4fd9') in 0.005434 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.120772 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset
+  artifactKey: Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset using Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbdf1927ace4ceb68f9844b69360b40a') in 0.005763 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.470922 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset
+  artifactKey: Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset using Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31c83fc59f21ab9c825f05da56d02e15') in 0.006937 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.594705 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset
+  artifactKey: Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset using Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b3188ff8acfa37d5dc75ffd357d9889') in 0.006523 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.139110 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset
+  artifactKey: Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset using Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c56a232a662ac5c02cd2c365f6cfce1') in 0.006136 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.708164 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset
+  artifactKey: Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset using Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b34640f555fd28a1b50ab68bbf7abf1') in 0.006628 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.492726 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset
+  artifactKey: Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset using Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbd4aad76a479d88265d2240b8c2a96c') in 0.006567 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.920265 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset
+  artifactKey: Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset using Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e725d922560b276b4e35a51ddebc994c') in 0.006707 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.729261 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset
+  artifactKey: Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset using Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f58ade5a3ce88d1eda743a086a28744') in 0.009149 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.509702 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset
+  artifactKey: Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset using Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '752c666a5674f5bd9f6ccda374db0412') in 0.006850 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.637163 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset
+  artifactKey: Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset using Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f35a6f1a20435192bd5892d78af360d3') in 0.007915 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.916216 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset
+  artifactKey: Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset using Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5225d4dff61dfa2e861d3401f3c8d35d') in 0.008057 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.518348 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset
+  artifactKey: Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset using Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e71e7f35b62761a4b2bfba20500a7c4') in 0.008528 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.823480 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset
+  artifactKey: Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset using Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '630f6fe605f5be386ead4c6cf88a30fa') in 0.008614 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.362636 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset
+  artifactKey: Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset using Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c225d9652f7f7f7239b198237213a9b') in 0.008227 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.190417 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset
+  artifactKey: Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset using Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '919674ebcd9784bf536ad7b5da3e9044') in 0.009366 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 28.905775 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset
+  artifactKey: Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset using Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c152c738266e5209e56ed65b301e4976') in 0.007768 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.726060 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset
+  artifactKey: Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset using Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b17429e00f4e292ba995853215c0dec6') in 0.005526 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.231064 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset
+  artifactKey: Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset using Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6daa4125c6cde36cbfa4a41da52b682f') in 0.005405 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.207948 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset
+  artifactKey: Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset using Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63b555c4e42a77200d20a0588c67943e') in 0.005024 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.580992 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset
+  artifactKey: Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset using Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c56c3780faae1700e68444ec606acfa8') in 0.005066 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.876731 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset
+  artifactKey: Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset using Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70661d6f13128dc212179d2f0699eb70') in 0.005349 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.308569 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset
+  artifactKey: Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset using Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0ef8cbd0df9b094963598fea0f8de29') in 0.005998 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.258922 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset
+  artifactKey: Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset using Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abe966d0bd6d2b73519df329c21c2c26') in 0.006375 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.406643 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset
+  artifactKey: Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset using Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ff1ec0e6babf6a8a09eefdf46c92e73') in 0.005935 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.315158 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset
+  artifactKey: Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset using Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6ede509ea5547ff3c83d054f66368b1') in 0.006825 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.418592 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset
+  artifactKey: Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset using Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52b477208e9d3c61753462872363bdd0') in 0.006106 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.571252 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset
+  artifactKey: Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset using Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acdaa00c608a52ee84de7e666d733eb4') in 0.006089 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.419725 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset
+  artifactKey: Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset using Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c500118cdd40f86d986f3789e1c08b13') in 0.006556 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.190313 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset
+  artifactKey: Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset using Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f1f08c916fe78506aed45ea7bf87fcb') in 0.007267 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.503552 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset
+  artifactKey: Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset using Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4d7aa53858c4f551395753612012bc3') in 0.007049 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.233824 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset
+  artifactKey: Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset using Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be6945aa7d889f4ae1813dc6ed202fe6') in 0.006739 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.192565 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset
+  artifactKey: Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset using Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5be7cc467893f0f68b2da50c4618f669') in 0.007297 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.788475 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset
+  artifactKey: Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset using Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c19618c6b20aec2522b22fef4c0ac7a5') in 0.006947 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.475331 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset
+  artifactKey: Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset using Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9249d679b70371f13fdcf5c821149ee') in 0.007784 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.778965 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset
+  artifactKey: Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset using Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3efc4cb49c3280e1517d627fb9b52ba1') in 0.007197 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.843796 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset
+  artifactKey: Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset using Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e4e0fa32bae74969c88603b877e3127') in 0.008255 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.839146 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset
+  artifactKey: Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset using Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a4127f72c7eb0ebaf3e23fdb8081a0c') in 0.008154 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.851881 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset
+  artifactKey: Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset using Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '591634d799453cb7f4ffb20bc664385a') in 0.007505 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.877340 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset
+  artifactKey: Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset using Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f53a61598d8ca2d2b68ccca4b32fedf7') in 0.007654 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.114932 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset
+  artifactKey: Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset using Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22936eead12b9dd8fd968e7871bae0d4') in 0.007625 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.234456 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset
+  artifactKey: Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset using Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '351f47f16e711bd9eab152beccbe4857') in 0.008448 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.015288 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset
+  artifactKey: Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset using Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '314bf5443bdd3e334e29e28081f3479b') in 0.009985 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 32.208280 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset
+  artifactKey: Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset using Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e37d2bb1429224287ddbf3aa5511fc67') in 0.008247 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.329913 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset
+  artifactKey: Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset using Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf4f58483576573bb172b4cf47b66e59') in 0.005015 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.147582 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset
+  artifactKey: Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset using Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12bee823fe1559fc5b0fec16c67bf752') in 0.005505 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.152812 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset
+  artifactKey: Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset using Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '959f3ae65f7e83642f147858032a03c8') in 0.004853 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.650181 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset
+  artifactKey: Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset using Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff1a29e438ddbfe912b67777c3e16814') in 0.006355 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.578947 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset
+  artifactKey: Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset using Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df824532f22662272d1935392c0a7644') in 0.005155 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.690324 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset
+  artifactKey: Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset using Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dfad59fea512ec6620cb86008abd9f0') in 0.005044 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.229543 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset
+  artifactKey: Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset using Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b1c7f089df50ebe0ee55a33b2ce06e2') in 0.005630 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.816120 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset
+  artifactKey: Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset using Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef8af04d84cd578cfe962fcaeaed19ef') in 0.006300 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.120339 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset
+  artifactKey: Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset using Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7ad7096ea4c7445cb1734e91b38a044') in 0.006462 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.616920 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset
+  artifactKey: Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset using Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fdcdead5c1188b14931003329034400') in 0.006647 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 36.866115 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset
+  artifactKey: Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset using Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b6c09b486b111891d667436ceaa48bd') in 0.007481 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.950072 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset
+  artifactKey: Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset using Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8276ce629f19da77a0faa5a8aaef4da0') in 0.006533 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.014042 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset
+  artifactKey: Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset using Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '979bad198d6ce088d0171061ce524017') in 0.006467 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.222223 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset
+  artifactKey: Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset using Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ea648066ace1ccfb348eb49ce9da16b') in 0.007044 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.777752 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset
+  artifactKey: Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset using Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9d0283ee3c355eac7244b2ed2d587a0') in 0.006341 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.854809 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset
+  artifactKey: Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset using Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '444fd3b822f665e581371de89313a686') in 0.006913 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.783250 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset
+  artifactKey: Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset using Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd24a6c51385052d212f31f02ad09e9c') in 0.007905 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.324751 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset
+  artifactKey: Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset using Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6752b7c83602d5d32d948304d51b923f') in 0.007594 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.893057 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset
+  artifactKey: Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset using Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '949d98c8e3dfab1f520d01b2ddae1948') in 0.008658 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.696467 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset
+  artifactKey: Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset using Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35ad932663f711c47e998d9c4c96e0e8') in 0.007827 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 45.222716 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset
+  artifactKey: Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset using Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91f66425328ed654b745c1fb8bb96b5a') in 0.008682 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.865151 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset
+  artifactKey: Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset using Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f652489f6a461322a3af8f74772ac6bf') in 0.008278 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.495068 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset
+  artifactKey: Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset using Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5acfe6c22e0326c4b97f24ef4658e5e5') in 0.008810 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.905031 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset
+  artifactKey: Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset using Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76e4b5e7dc6806aa314458a7eb9e557e') in 0.008535 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.301788 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset
+  artifactKey: Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset using Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '686e6812403bfa7b76840b8e5dea7e92') in 0.008261 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.068615 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset
+  artifactKey: Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset using Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '736eadbf625edb6f655db2fd18bbced8') in 0.008367 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 70.356944 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset
+  artifactKey: Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset using Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7b22ad2fc294f20c524245ba5a753a6') in 0.007638 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 28.852598 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset
+  artifactKey: Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset using Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a663bee9a20a6cba03b8548c989ee0a8') in 0.004481 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.047042 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset
+  artifactKey: Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset using Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '100b4d633980687c2c9991f9a65913b2') in 0.004754 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.514022 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset
+  artifactKey: Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset using Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d825c341cb0ad31d9a9110ebaf59dc9') in 0.004450 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.270880 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset
+  artifactKey: Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset using Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b021be3c75e0cb7214907a185ef6f69b') in 0.004908 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.556436 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset
+  artifactKey: Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset using Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ba621b51a673ec2d3361629e81eda87') in 0.006097 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.317127 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset
+  artifactKey: Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset using Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae64e10dbfc89805cb2131e598e49b59') in 0.006271 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.659042 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset
+  artifactKey: Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset using Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f25b74805dd637892193ca99342f859') in 0.005279 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.770998 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset
+  artifactKey: Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset using Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d4b9501233295340f7aca91667e7b2b') in 0.004927 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.070045 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset
+  artifactKey: Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset using Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '718b0a8bf4074eebcf1f5dadbd01de3c') in 0.005526 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.876314 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset
+  artifactKey: Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset using Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aaf87076f4b5d9f1c359d19ba016dd2') in 0.006469 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.198496 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset
+  artifactKey: Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset using Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a8ac8498350aaa7537f6aaae955b0e2') in 0.007209 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.594972 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset
+  artifactKey: Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset using Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '411f388d0809e1dcfde1bc0664fb078a') in 0.006594 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.961510 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset
+  artifactKey: Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset using Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7faff02ac1c024ece51980e05f8fbc5') in 0.007187 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 30.156928 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset
+  artifactKey: Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset using Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a7987389df92430f92fb84214414e3c') in 0.006791 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 31.600264 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset
+  artifactKey: Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset using Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08f8076d24723dac2029d06190b82630') in 0.007734 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.892773 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset
+  artifactKey: Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset using Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e69e2de8532a2eeb9961a5b2868925b9') in 0.006468 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.408881 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset
+  artifactKey: Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset using Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbd958d91b6b36adee7bddd7827647f6') in 0.008186 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.857332 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset
+  artifactKey: Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset using Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '273b2a1f685f06abe78303012c3951d8') in 0.009127 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.572691 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset
+  artifactKey: Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset using Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ceea376372d30f6cf28332c49fb0c96') in 0.007696 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.746023 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset
+  artifactKey: Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset using Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c10f573b1573df3c9e3afbf8a04c76c') in 0.007391 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.629281 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset
+  artifactKey: Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset using Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5118c973fb856ed9b9d520dfb981af69') in 0.008275 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.899035 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset
+  artifactKey: Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset using Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f10ba308ae2d647015ffbad92790191') in 0.007943 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.175526 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset
+  artifactKey: Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset using Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53c7175a3986a30aa41702bcb9471ae0') in 0.008764 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.399308 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset
+  artifactKey: Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset using Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0def91addabfce60e93b65bf9e89c1a') in 0.007976 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.536651 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset
+  artifactKey: Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset using Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fda5f4b7d2582ccbcc2642394b5d302') in 0.008613 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.322165 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset
+  artifactKey: Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset using Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5df3e6b4c601d380f723fa60f57549e9') in 0.009312 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.116761 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset
+  artifactKey: Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset using Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1cd6210cd816a4b9e35fffc4f8dfe5c') in 0.008634 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.174621 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset
+  artifactKey: Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset using Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b440a4f0f5d6bccb4e535ffd9685119') in 0.009409 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.517349 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset
+  artifactKey: Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset using Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf3a439b3cc7b4ab531ac994e8d4f3aa') in 0.009682 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.832726 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset
+  artifactKey: Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset using Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dee13c735c5df7673085facc71d7d433') in 0.008879 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.236395 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset
+  artifactKey: Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset using Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbdf7ec5429c862f6ea6582971bd74bb') in 0.010322 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.769131 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset
+  artifactKey: Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_1.asset using Guid(70b76653a3ac8c64eb9e72a73b2e2f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3c02f4722fadc930d3890db96d46909') in 0.009229 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 34.896993 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset
+  artifactKey: Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_5.asset using Guid(dace0fa9c2e39ed449e4d1da76fbb062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '463a622926b242e55d517a6f7d39c8c2') in 0.008978 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.587498 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset
+  artifactKey: Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_4.asset using Guid(91dceb49dd7ea0046b5ce38d272a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e253cd018d8d38f98f8daa2971f569a6') in 0.008967 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.051694 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset
+  artifactKey: Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level5/RoomNodeGraph_Level5_3.asset using Guid(ea3c693360e7d08458e74f8c8a1a4230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25438028b5dc5b4d2d3953bd1cc45fcc') in 0.008519 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 29.969491 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset
+  artifactKey: Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset using Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dee8315052aa454f9e0ad450732b9ea') in 0.007942 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 102.721547 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset
+  artifactKey: Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset using Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cbee35a308dbfa3de83af4060b53f96') in 0.005045 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.989195 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset
+  artifactKey: Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset using Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9dec396ca30318d3139d17024caaba7') in 0.005268 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.345851 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset
+  artifactKey: Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset using Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9ac29ff6607bc82ee951954ce483081') in 0.005072 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.167856 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset
+  artifactKey: Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset using Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3704aedba41fdb1f6766f8f6a803ccc9') in 0.006032 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.508730 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset
+  artifactKey: Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset using Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '012e14a9b70b753ba4df4797a0141ace') in 0.004828 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.302817 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset
+  artifactKey: Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset using Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44c536928a11e7c641b9073b83e76fbd') in 0.005507 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.393282 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset
+  artifactKey: Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset using Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c5fed0e880a3022fbeaf46a454c309d') in 0.006309 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.041401 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset
+  artifactKey: Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset using Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ab3844832749d4f7896ecabcad2e02e') in 0.006162 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.277189 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset
+  artifactKey: Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset using Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '870428c8f2cb714b370bb1c772f2b5c2') in 0.006954 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.303227 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset
+  artifactKey: Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset using Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6563224fdfb173f4d0a415ac15a61dab') in 0.005664 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.711009 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset
+  artifactKey: Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset using Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e82951b75c5bfd97300722e00b6d81cb') in 0.006157 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.805582 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset
+  artifactKey: Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset using Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7db4464176065b400aef6e47e42dda8') in 0.006362 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.696326 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset
+  artifactKey: Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset using Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d5279917c8fc0fc6e73fa1a7bb61d22') in 0.006944 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.281261 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset
+  artifactKey: Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset using Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '154f668d96d73d6b9e9e752bd18da20f') in 0.006404 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.135696 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset
+  artifactKey: Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset using Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '671de0892d7bd7dc881b9bde666d9577') in 0.007191 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.602410 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset
+  artifactKey: Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset using Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d494a74c366a4a8cd4efc2c11727117') in 0.007513 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.315169 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset
+  artifactKey: Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset using Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adf0a089a29dd295f5c6ffc5f3800cb9') in 0.006906 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.303739 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset
+  artifactKey: Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset using Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cc3551cf41bf90b9ee0d05564a60af8') in 0.007512 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 47.278810 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset
+  artifactKey: Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset using Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea7314c6c7927ee0e18482960dff16fd') in 0.008606 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.024998 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset
+  artifactKey: Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset using Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a1d8322cd0c47e62bbe0aa8f986c658') in 0.007799 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.974937 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset
+  artifactKey: Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset using Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb487613a34c9b83f6ed57e10326ba8b') in 0.007915 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.838679 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset
+  artifactKey: Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset using Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dc38dcabd303ed44dedb734b3817e4c') in 0.007288 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.166696 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset
+  artifactKey: Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset using Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f70d072f43f8a2fb984e00c91bdcf77') in 0.042381 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.972693 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset
+  artifactKey: Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_2.asset using Guid(6daad260dd4b56b4ca487826599bdfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4328e0d8c8747899139b001474053820') in 0.008381 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 65.304104 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset
+  artifactKey: Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset using Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94c81c02cf1976b1b24ddb987c5e910c') in 0.007509 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.394585 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset
+  artifactKey: Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset using Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5057c04f63d6782445a3ceed8a2022d4') in 0.004700 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.762515 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset
+  artifactKey: Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset using Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a792143be4d4ef7420bd3af33e4cefa') in 0.005579 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.163541 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset
+  artifactKey: Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset using Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd865723b4c6cf2c214bb0505ad033585') in 0.004242 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.761974 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset
+  artifactKey: Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset using Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42145e3e0b3df68ad6b1a7f6db11576c') in 0.005690 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.148238 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset
+  artifactKey: Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset using Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b6cf9c0fc750d2bbf5efbb75daddd8d') in 0.005189 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.439252 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset
+  artifactKey: Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset using Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2980f7ca9d212c18c7df0f4c2b6521f7') in 0.007752 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.361275 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset
+  artifactKey: Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset using Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e7d1f22e8b0782317f22765e9414255') in 0.005684 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.178723 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset
+  artifactKey: Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset using Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '575319910a538db96707589155fe2b30') in 0.005943 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.096078 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset
+  artifactKey: Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset using Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14c0d68715934021f7c3047f10ef1f04') in 0.005313 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.609084 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset
+  artifactKey: Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset using Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e69184eb900b6111b8c0cedf12b730c') in 0.005866 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 46.892485 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset
+  artifactKey: Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset using Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac1b57ab15f98970e80a4e1d600cccae') in 0.006323 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.399081 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset
+  artifactKey: Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset using Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c6b1aa99026845464fd06fa264d6145') in 0.006033 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.580811 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset
+  artifactKey: Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset using Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14b3f9e2a7d3d31ad536f884091a4cc8') in 0.006544 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.943257 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset
+  artifactKey: Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset using Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f20a5e81ad68643922cd88f3feb0d26') in 0.006513 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.699242 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset
+  artifactKey: Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset using Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e46ff6b2cb156e92c71589777d5960bd') in 0.007276 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.754773 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset
+  artifactKey: Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset using Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4eccd9d62137aae767ba91fdccb26e0') in 0.006420 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.177019 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset
+  artifactKey: Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset using Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35deb10dea64fc023e9ec80d31b8f105') in 0.007688 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.009312 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset
+  artifactKey: Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset using Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9c8ca1277c41066eeb52ac9b23eb143') in 0.007574 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 26.918422 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset
+  artifactKey: Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset using Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49557a601543bc014f4289a3a1c26c05') in 0.007319 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.341629 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset
+  artifactKey: Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset using Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '802559104d687c15d991b381670cc4f8') in 0.007261 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.859836 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset
+  artifactKey: Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset using Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcfe01df958d85b3bc132d6159d13450') in 0.007365 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.440976 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset
+  artifactKey: Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset using Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '695b6f0f39210a2ff7827afd185c4391') in 0.008260 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.882684 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset
+  artifactKey: Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset using Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5c95bd36e6941124e3cfc4a8565dc72') in 0.007839 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.917031 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset
+  artifactKey: Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset using Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b0c96e96c47e204e9c9a66e311b7c28') in 0.006691 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.293259 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset
+  artifactKey: Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset using Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dbb6ea21674667ef8b7f72ddb7cf028') in 0.009354 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.569372 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset
+  artifactKey: Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset using Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3dea107b6a2a76f79b8297b29b99c04') in 0.009387 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 41.602737 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset
+  artifactKey: Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset using Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3334036c17828e3731352c64e2fe0bd3') in 0.009614 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.949702 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset
+  artifactKey: Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset using Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86fd33610f01577f00338f9474ed49e0') in 0.008872 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.360334 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset
+  artifactKey: Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset using Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75751f6801c467d1dc97b0397194423d') in 0.008027 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.106310 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset
+  artifactKey: Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_3.asset using Guid(d338d80b70e179742b20c8e1929eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ded0705ca3eaa47e615b54aae8f5c582') in 0.007774 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 31.263575 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset
+  artifactKey: Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset using Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7f57e7bb84828e6b0310be807d9af4d') in 0.007673 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 110.769984 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset
+  artifactKey: Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset using Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6e9495d2506b9474de924c0bab5e86c') in 0.005309 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 35.992750 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset
+  artifactKey: Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset using Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf99a89d4f8566f761ed764ed19a18ac') in 0.005244 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.901859 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset
+  artifactKey: Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset using Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4c0cdd73757d1018f4cd99d23b100f2') in 0.004353 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.750835 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset
+  artifactKey: Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset using Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2a332c7a5a32bbe490f5ab265cc1724') in 0.005106 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.019297 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset
+  artifactKey: Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset using Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50c17bf72c2c10050d02e16561776619') in 0.005791 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.852592 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset
+  artifactKey: Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset using Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f2763c459ed53ccb16990f09672b8eb') in 0.004989 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.881455 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset
+  artifactKey: Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset using Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba803d99e1d83f903c2e4cb71e491034') in 0.006349 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.653993 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset
+  artifactKey: Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset using Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fd837e9b7edb2de9be13a88b95c3ee3') in 0.005292 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.793249 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset
+  artifactKey: Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset using Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd9ba400b883d9bbb87a400a274bce11') in 0.006071 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.143268 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset
+  artifactKey: Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset using Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b765252d6dd22f10d1d9730e227ef258') in 0.005916 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.664262 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset
+  artifactKey: Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset using Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c0526fc330b8a43928de85e9a321f8f') in 0.006050 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.359381 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset
+  artifactKey: Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset using Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '832be687a8234a18240e3a64a9f1f22a') in 0.006233 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.730900 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset
+  artifactKey: Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset using Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b496b959564ce3fba38bc0a0a7a61f13') in 0.006282 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.888736 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset
+  artifactKey: Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset using Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27b0b7de70694d7575d6efbc07dd7abf') in 0.006640 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.812818 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset
+  artifactKey: Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset using Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82f20ae093d1e32fcbc0c006a37ad075') in 0.006180 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.034463 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset
+  artifactKey: Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset using Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7961c4b6bee6582d0d112bccdb60c20c') in 0.007425 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.578949 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset
+  artifactKey: Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset using Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fbe596b3cb2fc57344a09e8a77c3f07') in 0.008286 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.156177 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset
+  artifactKey: Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset using Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87425775b35d76fbb870e47fa378ec97') in 0.006556 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 103.964721 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset
+  artifactKey: Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset using Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ae27d36afe394ed08018cfea09f66e8') in 0.009125 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.693468 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset
+  artifactKey: Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset using Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91a4c70dd480fc7d85cfe1b93657b225') in 0.007953 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.279501 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset
+  artifactKey: Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset using Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdebb01b9096b5790451f5ad944e30f6') in 0.009626 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.864104 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset
+  artifactKey: Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset using Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1a1502f6ed826c618066f0e49a900ce') in 0.007897 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.714013 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset
+  artifactKey: Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset using Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9f896070ebf4b4c03310d21f2f891a1') in 0.008398 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.063171 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset
+  artifactKey: Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset using Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd4b01f3781f761cd8a00db3063d76ad') in 0.009153 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.115167 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset
+  artifactKey: Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset using Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57fd854e2768abc96340e82df535c8ba') in 0.009494 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.426014 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset
+  artifactKey: Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset using Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cc1bcfe711f25a5bfb2bd3bfd36e607') in 0.007425 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.671276 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset
+  artifactKey: Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset using Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '490e342d68c7bb6a426c3a3f860c17fe') in 0.009091 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.923937 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset
+  artifactKey: Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset using Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53ed6cce8cd1ec23ea6614a34b465b2e') in 0.008297 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.955588 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset
+  artifactKey: Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset using Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65e8bd9753f3d421abe68df55e9a60a1') in 0.008686 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.839418 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset
+  artifactKey: Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_4.asset using Guid(0b665fc45e3668a4595802a93435784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b179b63134569f2181f5c58a2f28678') in 0.008021 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 63.204396 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset
+  artifactKey: Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset using Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36c6f9846cf19e2881a2372230270ec1') in 0.007516 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.800443 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset
+  artifactKey: Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset using Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f64283076eb86a57aed410fdd54f3525') in 0.004626 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 28.522824 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset
+  artifactKey: Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset using Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccc9c7d0be50e393d72e62285df3400c') in 0.005804 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.239142 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset
+  artifactKey: Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset using Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06e5ef88c618c12ccf01d2c4ba065fa4') in 0.004505 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.234220 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset
+  artifactKey: Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset using Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6723c846e944980a8661a65a3a007ee') in 0.005296 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.889163 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset
+  artifactKey: Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset using Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '547dd38a9315de9e8875bc28e9cbcac4') in 0.005861 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.985506 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset
+  artifactKey: Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset using Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb08dcdc6f76d416a7b55e497d1f7318') in 0.004970 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.113999 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset
+  artifactKey: Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset using Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '812ad15767ff2f24c8a5bb9d3009ffde') in 0.005994 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.108236 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset
+  artifactKey: Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset using Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de7b285ab8d0998a89b4405efd6eceb4') in 0.005535 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.743947 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset
+  artifactKey: Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset using Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc064f6cab79663c197ebaab94e82123') in 0.006066 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.043709 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset
+  artifactKey: Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset using Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bc7a78fbec31c7803bcbacedc41fb41') in 0.005092 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.584669 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset
+  artifactKey: Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset using Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25a11b7b21fc98be5282ae5d485bbfd8') in 0.005394 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.726584 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset
+  artifactKey: Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset using Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f38f6720971a527a091c6e06d42d82e1') in 0.005915 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.560152 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset
+  artifactKey: Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset using Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0977ac112e5f61ddaec8c6fa6baf9b93') in 0.006187 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.357264 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset
+  artifactKey: Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset using Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '633c95bff0345d3be0cf17e3d2011761') in 0.007117 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.634320 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset
+  artifactKey: Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset using Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4997b8764cef33802f94048d4f42d6d6') in 0.007261 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.147320 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset
+  artifactKey: Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset using Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b9808c7e504ca5f86a3c4cb6ebbbfc1') in 0.006575 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.571304 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset
+  artifactKey: Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset using Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83010821d3ee0f01558641e23648bc4b') in 0.006688 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.306278 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset
+  artifactKey: Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset using Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '214247c324041acb1f9a7811608d5827') in 0.008296 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.361947 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset
+  artifactKey: Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset using Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b03aa7b5b86d3ce4da6cbf63c5153479') in 0.007972 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.220196 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset
+  artifactKey: Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset using Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '790d92724d6061dfef002fe250dfe53c') in 0.008147 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.279132 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset
+  artifactKey: Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset using Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '049e7b92bca5223ae5909c971a755161') in 0.007533 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.941952 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset
+  artifactKey: Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset using Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb784b67ec9f5390f8d5e046307a0bb3') in 0.007455 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.821584 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset
+  artifactKey: Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset using Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b93470da922eb9d8592221c6730633b6') in 0.007674 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.433050 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset
+  artifactKey: Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset using Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d7ff224ac799495ef2e2e31562af0b1') in 0.007782 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 109.325823 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset
+  artifactKey: Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset using Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b4780f3f8b3bb77e8eb1059cd5b0086') in 0.009370 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.612780 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset
+  artifactKey: Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset using Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4edc8ffb8f4f599627ba7f2d59786844') in 0.009711 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.851396 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset
+  artifactKey: Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset using Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6ef65eb24509ce245858937da594858') in 0.012101 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.501040 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset
+  artifactKey: Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset using Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c5b15a51ec41a95822e57ae80d77e34') in 0.007436 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.843481 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset
+  artifactKey: Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset using Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da078eb719f17a53d95804fbc12e7aa5') in 0.009823 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.546817 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset
+  artifactKey: Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset using Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a4e763046b9f2fa97bd81db1f09f94e') in 0.008259 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.726452 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset
+  artifactKey: Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset using Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4150988697ea5aa73f1e6411067ed671') in 0.009185 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.052907 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset
+  artifactKey: Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_5.asset using Guid(37b97d1f55ba2ff49b36b3b5066fb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '420d2a715ffe867b5eea59f9550b9202') in 0.008576 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 35.390296 seconds.
+  path: Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_6.asset
+  artifactKey: Guid(bb6979bd0b9ab37459cf0e90ad764f34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Dungeon/DungeonRoomNodeGraphs/Level6/RoomNodeGraph_Level6_6.asset using Guid(bb6979bd0b9ab37459cf0e90ad764f34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1829cdb4c165fff78fa268bcea49eb96') in 0.007847 seconds 
