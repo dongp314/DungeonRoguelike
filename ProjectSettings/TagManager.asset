@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - grid
+  - collisionTilemap
+  - minimapTilemap
+  - groundTilemap
+  - decoration1Tilemap
+  - decoration2Tilemap
+  - frontTilemap
+  - roomTilemap
+  - miniMapPlayer
+  - playerWeapon
   layers:
   - Default
   - TransparentFX
@@ -42,23 +52,23 @@ TagManager:
     uniqueID: 0
     locked: 0
   - name: Ground
-    uniqueID: 808427137
+    uniqueID: 3504611765
     locked: 0
   - name: Ground Decoration 1
-    uniqueID: 580190185
+    uniqueID: 2002717741
     locked: 0
   - name: Ground Decoration 2
-    uniqueID: 3880768899
+    uniqueID: 4065348071
     locked: 0
-  - name: Intances
-    uniqueID: 818581069
+  - name: Instances
+    uniqueID: 3641257881
     locked: 0
   - name: Front
-    uniqueID: 4067423279
+    uniqueID: 1025438153
     locked: 0
   - name: Collision
-    uniqueID: 3615252747
+    uniqueID: 2870844909
     locked: 0
   - name: Minimap
-    uniqueID: 4196318579
+    uniqueID: 1491282665
     locked: 0
