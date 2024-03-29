@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 392}
   m_MaxSize: {x: 10000, y: 10000}
@@ -46,7 +46,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 392}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
   m_TopViewHeight: 30
@@ -221,7 +221,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 959
     y: 0
-    width: 238
+    width: 233
     height: 947
   m_MinSize: {x: 102, y: 121}
   m_MaxSize: {x: 4002, y: 4021}
@@ -245,9 +245,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1197
+    x: 1192
     y: 0
-    width: 295
+    width: 300
     height: 947
   m_MinSize: {x: 232, y: 271}
   m_MaxSize: {x: 10002, y: 10021}
@@ -275,8 +275,8 @@ MonoBehaviour:
     y: 0
     width: 428
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 21}
   m_Panes:
   - {fileID: 21}
@@ -400,17 +400,17 @@ MonoBehaviour:
   m_ShowContextualTools: 0
   m_WindowGUID: cc27987af1a868c49b0894db9c0f5429
   m_Gizmos: 1
-  m_OverrideSceneCullingMask: 0
-  m_SceneIsLit: 0
+  m_OverrideSceneCullingMask: 6917529027641081856
+  m_SceneIsLit: 1
   m_SceneLighting: 1
   m_2DMode: 1
   m_isRotationLocked: 0
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1.8302066, y: -1.4296473, z: -5.0664096}
+    m_Target: {x: 3.1974134, y: 9.5812025, z: -2.243381}
     speed: 2
-    m_Value: {x: 2.143917, y: -1.3273504, z: -5.0432224}
+    m_Value: {x: 14.613641, y: 41.40083, z: -6.208994}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -422,7 +422,7 @@ MonoBehaviour:
   m_SceneViewState:
     m_AlwaysRefresh: 1
     showFog: 1
-    showSkybox: 0
+    showSkybox: 1
     showFlares: 1
     showImageEffects: 1
     showParticleSystems: 1
@@ -447,13 +447,13 @@ MonoBehaviour:
       m_Size: {x: 1, y: 1}
     zGrid:
       m_Fade:
-        m_Target: 1
+        m_Target: 0
         speed: 2
-        m_Value: 1
+        m_Value: 0
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
       m_Size: {x: 1, y: 1}
-    m_ShowGrid: 1
+    m_ShowGrid: 0
     m_GridAxis: 1
     m_gridOpacity: 1
   m_Rotation:
@@ -461,9 +461,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 6.151075
+    m_Target: 13.227851
     speed: 2
-    m_Value: 6.440916
+    m_Value: 22.663912
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -543,7 +543,7 @@ MonoBehaviour:
   m_Zoom: 1.0854167
   m_ScrollPosition: {x: 1.9691055, y: 56.48307}
   m_SelectedAssetPath: Assets/CourseAssets/Textures/Tilemap/Dungeon2/Dungeon2.png
-  m_SelectedObject: {fileID: 0}
+  m_SelectedObject: {fileID: 102900000, guid: 00000000000000001000000000000000, type: 3}
   m_SelectedSpriteRectGUID: d004a28dbd5a70490800000000000000
   m_LastUsedModuleTypeName: UnityEditor.U2D.Sprites.SpriteFrameModule
 --- !u!114 &16
@@ -699,29 +699,29 @@ MonoBehaviour:
     serializedVersion: 2
     x: 959
     y: 73
-    width: 236
+    width: 231
     height: 926
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 046c0100
+      m_SelectedIDs: cc760000
       m_LastClickedID: 0
-      m_ExpandedIDs: f2f7fdff8c6401009a640100
+      m_ExpandedIDs: 
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: MediumRoom_MyRooms_1
-        m_OriginalName: MediumRoom_MyRooms_1
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 65240
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 9}
       m_SearchString: 
@@ -751,9 +751,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1197
+    x: 1192
     y: 73
-    width: 293
+    width: 298
     height: 926
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
@@ -769,7 +769,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts/Dungeon
+    - Assets/ScriptableObjectAssets/Dungeon/Rooms/Sorcery
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 0
@@ -783,7 +783,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 981c0100
     m_LastClickedID: 72856
-    m_ExpandedIDs: 00000000185100001a5100001c5100001e51000020510000225100002451000026510000285100002a5100002c5100002e510000305100003251000034510000
+    m_ExpandedIDs: 00000000385000003a5000003c5000003e500000405000004250000044500000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -811,18 +811,18 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000185100001a5100002e51000030510000dc750000bc6b0100e06b0100ffffff7f
+    m_ExpandedIDs: ffffffff00000000385000003a5000003c5000003e500000347500008475000086750000929d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: RoomTemplateSO
-      m_OriginalName: RoomTemplateSO
+      m_Name: Room_BossRoom_Catacombs_2
+      m_OriginalName: Room_BossRoom_Catacombs_2
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 93188
+      m_UserData: 30496
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
@@ -934,6 +934,6 @@ MonoBehaviour:
     m_CachedPref: 148
     m_ControlHash: 1964396721
     m_PrefName: Preview_TilemapBrushInspector
-  m_Palette: {fileID: 4157194876254785860, guid: 4662ad8b90b9d0f45841a10e1aae528b, type: 3}
+  m_Palette: {fileID: 4477583344561585380, guid: 406ddcaf2c686044c8f461db01a27b40, type: 3}
   m_DrawGridGizmo: 1
   m_DrawGizmos: 0
